@@ -12,9 +12,12 @@ name.delete!('(')
 name.delete!(')')
 name.gsub(' ', '-')
 end
+
+
 get '/skills/:name' do
 skills = []
 
+response['Access-Control'] ="allow <*>"
 html = Nokogiri::HTML(File.open("skills"))
 
 
