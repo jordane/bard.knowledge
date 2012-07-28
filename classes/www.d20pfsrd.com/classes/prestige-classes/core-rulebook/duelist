@@ -1,0 +1,1917 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/">
+<head>
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { var a=window,b="start";var e=function(d){this.t={};this.tick=function(d,k,c){c=void 0!=c?c:(new Date).getTime();this.t[d]=[c,k]};this.tick(b,null,d)},f=new e;a.jstiming={Timer:e,load:f};if(a.performance&&a.performance.timing){var g=a.performance.timing,h=a.jstiming.load,i=g.navigationStart,j=g.responseStart;0<i&&j>=i&&(h.tick("_wtsrt",void 0,i),h.tick("wtsrt_","_wtsrt",j))}
+try{var l=null;a.chrome&&a.chrome.csi&&(l=Math.floor(a.chrome.csi().pageT));null==l&&a.gtbExternal&&(l=a.gtbExternal.pageT());null==l&&a.external&&(l=a.external.pageT);l&&(a.jstiming.pt=l)}catch(m){}; })()
+</script>
+<link rel="shortcut icon" href="/_/rsrc/1298228305802/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://www.gstatic.com/sites/p/385ab0/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { var d=window,e="length",h="",i="__duration__",j="function";function k(c){return document.getElementById(c)}d.byId=k;function l(c){return c.replace(/^\s+|\s+$/g,h)}d.trim=l;var m=[],n=0;d.JOT_addListener=function(c,a,b){var f=new String(n++),c={eventName:c,handler:a,compId:b,key:f};m.push(c);return f};d.JOT_removeListenerByKey=function(c){for(var a=0;a<m[e];a++)if(m[a].key==c){m.splice(a,1);break}};d.JOT_removeAllListenersForName=function(c){for(var a=0;a<m[e];a++)m[a].eventName==c&&m.splice(a,1)};
+d.JOT_postEvent=function(c,a,b){var f={eventName:c,eventSrc:a||{},payload:b||{}};if(d.JOT_fullyLoaded){a=m[e];for(b=0;b<a&&b<m[e];b++){var g=m[b];g&&g.eventName==c&&(f.listenerCompId=g.compId||h,(g=typeof g.handler==j?g.handler:d[g.handler])&&g(f))}}else d.JOT_delayedEvents.push({eventName:c,eventSrc:a,payload:b})};d.JOT_delayedEvents=[];d.JOT_fullyLoaded=!1;
+d.JOT_formatRelativeToNow=function(c,a){var b=((new Date).getTime()-c)/6E4;if(1440<=b||0>b)return null;var f=0;60<=b&&(b/=60,f=2);2<=b&&f++;return a?d.JOT_siteRelTimeStrs[f].replace(i,Math.floor(b)):d.JOT_userRelTimeStrs[f].replace(i,Math.floor(b))}; })()
+</script>
+<script>
+
+
+var webspace = {"scottyUrl":"/_/upload","isConsumer":true,"canPublishScriptToAnyone":true,"serverFlags":{"cajaBaseUrl":"//www.gstatic.com/caja","cajaDebugMode":false},"sharingUrlPrefix":"/_/sharing","csiReportUri":"http://csi.gstatic.com/csi","sharingPolicy":"OPENED","analyticsAccountId":"UA-1805527-13","baseUri":"","name":"pathfinderogc","domain":"defaultdomain","features":{"scottyForTrogImageUpload":false,"pdfEmbedSupport":false,"docosCommenting":false,"useStandardEmbedsInSidebar":false,"siteChromeSidebarWidgetsEditDialog":false,"canonicalLinkTagInHead":false,"siteChromeSystemFooterDialog":false,"plusOneButtonOptions":true,"plusOneButton":true,"spreadsheetsEmbedLoadRedirect":true,"ieSevenUnsupportedError":false,"photoAlbumsInOnePick":true,"siteChromeSidebarWidgetsDialog":false,"autoCompleteSearch":false,"goocitiesTheme":false,"editorKeyboardShortcuts":true,"experimental":{"displayEditorLockExceptions":false},"siteChromeDialogsToolbar":false,"plusBadge":false,"siteChromeHorizontalNavigationDialog":false,"dataPropsForEmbeds":true,"autoAdjustSitemapSearchDepth":true,"userContentMetaTags":true,"siteChromeSidebarDialog":false,"htmlEmbed":true,"keyboardShortcuts":true,"siteChromeHeaderDialog":false,"stBtiWebspaceTitleSearch":false,"pageRedirects":false,"siteChromeCustomFooterDialog":false},"adsensePublisherId":"ca-pub-8646111290283331","gvizVersion":1,"siteTitle":"Pathfinder_OGC","pageSharingId":"jotspot_page","plusPageId":"","termsUrl":"http://www.google.com/sites/help/intl/en/terms.html","enableAnalytics":true,"isPublic":true,"plusPageUrl":"","homePath":"/","sharingId":"jotspot","isGoocities":false,"isAdsenseEnabled":true,"adsensePromoClickedOrSiteIneligible":true,"enableAutoComplete":true,"isStartPageEnabled":false,"domainAnalyticsAccountId":""};
+
+
+
+webspace.gadgets = {"isGadgetDirectoryEnabled":true,"baseUri":"/system/app/pages/gadgets","isGgsRenderingEnabled":true};
+
+
+webspace.user = {"uid":"","renderMobile":false,"primaryEmail":"guest","sessionIndex":"","namespaceUser":false,"displayNameOrEmail":"guest","namespace":"","hasAdminAccess":false,"guest_":true,"keyboardShortcuts":true,"domain":"","hasWriteAccess":false,"dasherUser":false,"userName":"guest"};
+
+webspace.page = {"canDeleteWebspace":null,"locale":"en","state":"","wuid":"wuid:gx:4f1dc50f36989b00","pageInheritsPermissions":null,"timeZone":"America/Los_Angeles","properties":{},"type":"text","canChangePath":true,"parentWuid":"wuid:gx:1a7aa5c42575ff8c","revision":33,"title":"Duelist","isRtlLocale":false,"bidiEnabled":false,"siteLocale":"en","name":"duelist","path":"/classes/prestige-classes/core-rulebook/duelist","isSiteRtlLocale":false,"parentPath":"/classes/prestige-classes/core-rulebook"};
+webspace.page.breadcrumbs = [{"title":"Classes","dir":"ltr","path":"/classes","deleted":false},{"title":"Prestige Classes","dir":"ltr","path":"/classes/prestige-classes","deleted":false},{"title":"Core Rulebook","dir":"ltr","path":"/classes/prestige-classes/core-rulebook","deleted":false},{"title":"Duelist","dir":"ltr","path":"/classes/prestige-classes/core-rulebook/duelist","deleted":false}];
+
+
+webspace.editorResources = {
+  text: [
+    'http://www.gstatic.com/sites/p/385ab0/system/js/codemirror.js',
+    'http://www.gstatic.com/sites/p/385ab0/system/app/css/codemirror_css.css',
+    'http://www.gstatic.com/sites/p/385ab0/system/js/trog_edit__en.js',
+    'http://www.gstatic.com/sites/p/385ab0/system/app/css/trogedit.css',
+    '/_/rsrc/1342554146000/system/app/css/editor.css',
+    'http://www.gstatic.com/sites/p/385ab0/system/app/css/codeeditor.css',
+    '/_/rsrc/1342554146000/system/app/css/camelot/editor-jfk.css'
+  ],
+  sitelayout: [
+    'http://www.gstatic.com/sites/p/385ab0/system/app/css/sitelayouteditor.css'
+  ]
+};
+
+var JOT_clearDotPath = 'http://www.gstatic.com/sites/p/385ab0/system/app/images/cleardot.gif';
+
+
+var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+
+webspace.siteTemplateId = false;
+
+
+webspace.page.currentTemplate = {"title":"Web Page","path":"/system/app/pagetemplates/text"};
+
+
+
+var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="google-site-verification" content="OQEYupWrW2X2dmi9C2KvWH4krcEVANnUQQ1TQ5scyBg" />
+<meta name="title" content="Duelist - Pathfinder_OGC" />
+<meta itemprop="name" content="Duelist - Pathfinder_OGC" />
+<meta property="og:title" content="Duelist - Pathfinder_OGC" />
+<meta name="Description" content="A site with rules for the Paizo Pathfinder RPG" />
+<meta itemprop="description" content="A site with rules for the Paizo Pathfinder RPG" />
+<meta property="og:description" content="A site with rules for the Paizo Pathfinder RPG" />
+<meta itemprop="image" content="/_/rsrc/1317865076167/config/customLogo.gif?revision=11" />
+<meta property="og:image" content="/_/rsrc/1317865076167/config/customLogo.gif?revision=11" />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/385ab0/system/app/themes/default/standard-css-default-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1342554146000/system/app/css/overlay.css?cb=default25a100%25%25%25173goog-ws-leftcontent30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1342554146000/system/app/css/symbolfont.css" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1342554146000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>Duelist - Pathfinder_OGC</title>
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<script src="//www.gstatic.com/caja/4949/caja.js"> </script>
+<script src="http://www.gstatic.com/sites/p/385ab0/system/js/jot_caja.js"> </script>
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title">
+<div class="sites-header-cell-buffer-wrapper">
+<a href="http://www.d20pfsrd.com/">
+<img src="/_/rsrc/1317865076167/config/customLogo.gif?revision=11" id="logo-img-id" alt="Logo" class="sites-logo" />
+</a>
+<h2>
+</h2>
+</div>
+</td>
+<td class="sites-layout-searchbox">
+<div class="sites-header-cell-buffer-wrapper">
+<div>
+<form id="sites-searchbox-form" action="/system/app/pages/customSearch"><input type="hidden" id="sites-searchbox-scope" name="scope" value="cse-goog_2141708271" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search" autocomplete="on" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-select-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search</div><div id="sites-searchbox-select-dropdown" class="goog-inline-block goog-flat-menu-button"><div class="goog-inline-block goog-flat-menu-button-caption"></div><div class="goog-inline-block goog-flat-menu-button-dropdown sites-jfk-menu-button-dropdown"> </div></div></div></form>
+</div>
+</div>
+</td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container">
+</td>
+</tr>
+</table> 
+</div> 
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_8011023314269897" class="sites-embed">
+<div class="sites-embed-content sites-sidebar-nav ">
+<ul jotId="navList">
+<li class="topLevel nav-first"><div dir="ltr" style="padding-left: 19px;"><a href="/home" jotId="wuid:gx:6167cf3003a6d231" class="sites-navigation-link topLevel">Pathfinder SRD</a>
+</div></li>
+<li class="topLevel parent" wuid="gx:1f58c74420fd7efe"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/basics-ability-scores" jotId="wuid:gx:1f58c74420fd7efe" class="sites-navigation-link topLevel">Basics &amp; Ability Scores</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/basics-ability-scores/ability-scores" jotId="wuid:gx:b18500d52b9ddb0" class="sites-navigation-link">Ability Scores</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/basics-ability-scores/character-creation" jotId="wuid:gx:2bafdd3c3a40c4a1" class="sites-navigation-link">Character Creation Outline</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/basics-ability-scores/glossary" jotId="wuid:gx:2ba1a586bf81ee5a" class="sites-navigation-link">Common Terms</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/basics-ability-scores/getting-started" jotId="wuid:gx:73938ff25fafc2cf" class="sites-navigation-link">Getting Started</a>
+</div></li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:20326e2baea70f4a"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/alignment-description" jotId="wuid:gx:20326e2baea70f4a" class="sites-navigation-link topLevel">Alignment &amp; Description</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/alignment-description/additional-rules" jotId="wuid:gx:1c201769eaa0d966" class="sites-navigation-link">Alignment</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/alignment-description/carrying-capacity" jotId="wuid:gx:bc2c806dcef56fd" class="sites-navigation-link">Carrying Capacity</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/alignment-description/description" jotId="wuid:gx:2d367bf29e34269a" class="sites-navigation-link">Description</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/alignment-description/movement" jotId="wuid:gx:2099039b213763ae" class="sites-navigation-link">Movement</a>
+</div></li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:6538687bf9105722"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/races" jotId="wuid:gx:6538687bf9105722" class="sites-navigation-link topLevel">Races</a>
+</div><ul>
+<li class="parent closed" wuid="gx:111c120a670de987"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/races/core-races" jotId="wuid:gx:111c120a670de987" class="sites-navigation-link">Core Races</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/races/core-races/dwarf" jotId="wuid:gx:2cb1631bd6d0a0ee" class="sites-navigation-link">Dwarves</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/races/core-races/elf" jotId="wuid:gx:81273dfbd5af68" class="sites-navigation-link">Elves</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/races/core-races/gnome" jotId="wuid:gx:519eb299e3febde5" class="sites-navigation-link">Gnomes</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/races/core-races/half-elf" jotId="wuid:gx:facf29f546738e1" class="sites-navigation-link">Half-elves</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/races/core-races/halfling" jotId="wuid:gx:62c9ac207b311b19" class="sites-navigation-link">Halflings</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/races/core-races/half-orc" jotId="wuid:gx:42e1e45b6f72fb8c" class="sites-navigation-link">Half-orcs</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/races/core-races/human" jotId="wuid:gx:4ed0925a036eed7e" class="sites-navigation-link">Humans</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:40d0da006d2150a9"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/races/other-races" jotId="wuid:gx:40d0da006d2150a9" class="sites-navigation-link">Other Races</a>
+</div><ul>
+<li class="parent closed" wuid="gx:40e02023cac1c38b"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/races/other-races/featured-races" jotId="wuid:gx:40e02023cac1c38b" class="sites-navigation-link">Featured Races</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-aasimar" jotId="wuid:gx:458a22417411bc6f" class="sites-navigation-link">Aasimars</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-catfolk" jotId="wuid:gx:7484b330a9cdf464" class="sites-navigation-link">Catfolk</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-dhampir" jotId="wuid:gx:240c8fdbac0bfdb9" class="sites-navigation-link">Dhampir</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-drow" jotId="wuid:gx:2b0f083f47a9d98d" class="sites-navigation-link">Drow</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-fetchling" jotId="wuid:gx:306163a8c9dd768c" class="sites-navigation-link">Fetchlings</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-goblin" jotId="wuid:gx:420d4551d5d7a64c" class="sites-navigation-link">Goblins</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-hobgoblin" jotId="wuid:gx:4f801c67bc0622c8" class="sites-navigation-link">Hobgoblins</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-ifrit" jotId="wuid:gx:4d2cc24a1e7ff12" class="sites-navigation-link">Ifrits</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-kobold" jotId="wuid:gx:2eb960a98424b4f0" class="sites-navigation-link">Kobolds</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-orc" jotId="wuid:gx:75ee51cf042e7b1a" class="sites-navigation-link">Orcs</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-oread" jotId="wuid:gx:4a1a5ac2acde4f18" class="sites-navigation-link">Oreads</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-ratfolk" jotId="wuid:gx:37437ea076288319" class="sites-navigation-link">Ratfolk</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-sylph" jotId="wuid:gx:4d5d52019b0b1879" class="sites-navigation-link">Sylphs</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-tengu" jotId="wuid:gx:50baaed27bf0b38e" class="sites-navigation-link">Tengus</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-tiefling" jotId="wuid:gx:61f4a13a98e2cb37" class="sites-navigation-link">Tieflings</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/featured-races/arg-undine" jotId="wuid:gx:1f79b7e55863a193" class="sites-navigation-link">Undines</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:217ae9f0c4f69284"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/races/other-races/uncommon-races" jotId="wuid:gx:217ae9f0c4f69284" class="sites-navigation-link">Uncommon Races</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-changeling" jotId="wuid:gx:277da9b0a640c6e6" class="sites-navigation-link">Changelings</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-duergar" jotId="wuid:gx:7107b00dbc1a7b1c" class="sites-navigation-link">Duergar</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-gillmen" jotId="wuid:gx:35c236f00e8d5b4e" class="sites-navigation-link">Gillmen</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-grippli" jotId="wuid:gx:3ab67cd5f5f4133e" class="sites-navigation-link">Gripplis</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-kitsune" jotId="wuid:gx:252b25243f4ba31f" class="sites-navigation-link">Kitsune</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-merfolk" jotId="wuid:gx:500b7dbfbd2a8fea" class="sites-navigation-link">Merfolk</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-nagaji" jotId="wuid:gx:54fa762058f342c9" class="sites-navigation-link">Nagaji</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-samsaran" jotId="wuid:gx:361c8afa6fc569fd" class="sites-navigation-link">Samsarans</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-strix" jotId="wuid:gx:46544571af6c1860" class="sites-navigation-link">Strix</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-suli" jotId="wuid:gx:495a831b0e2746" class="sites-navigation-link">Sulis</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-svirfneblin" jotId="wuid:gx:45322a93f986d59e" class="sites-navigation-link">Svirfneblin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-vanaras" jotId="wuid:gx:7c75ee8187d9bec1" class="sites-navigation-link">Vanaras</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-vishkanyas" jotId="wuid:gx:4d49387d4e784413" class="sites-navigation-link">Vishkanyas</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/other-races/uncommon-races/arg-wayang" jotId="wuid:gx:7eb515d7982ce4e1" class="sites-navigation-link">Wayangs</a>
+</div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:252b587ef42d6c48"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/races/3rd-party-races" jotId="wuid:gx:252b587ef42d6c48" class="sites-navigation-link">3rd Party Races</a>
+</div><ul>
+<li class="parent closed" wuid="gx:c49267718ef9846"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/races/3rd-party-races/adamant-entertainment" jotId="wuid:gx:c49267718ef9846" class="sites-navigation-link">Adamant Entertainment</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/adamant-entertainment/half-ogre" jotId="wuid:gx:4ea8fb27778b3470" class="sites-navigation-link">Half-Ogre</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/adamant-entertainment/ratkin" jotId="wuid:gx:5a1e4159872c8c95" class="sites-navigation-link">Ratkin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/adamant-entertainment/saurian" jotId="wuid:gx:227bdc112e458f95" class="sites-navigation-link">Saurian</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:6c487ab559c0cb86"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/races/3rd-party-races/alluria-publishing" jotId="wuid:gx:6c487ab559c0cb86" class="sites-navigation-link">Alluria Publishing</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/anumus" jotId="wuid:gx:b0f06a6a59947b2" class="sites-navigation-link">Anumus</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/boggle" jotId="wuid:gx:5fdab76bdd52168d" class="sites-navigation-link">Boggle</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/entobian" jotId="wuid:gx:2a16f00ac3e174a7" class="sites-navigation-link">Entobian</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/kval" jotId="wuid:gx:10c0b4f953d02d43" class="sites-navigation-link">Kval</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/mahrog" jotId="wuid:gx:76f33ef2566ffb73" class="sites-navigation-link">Mahrog</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/mogogol" jotId="wuid:gx:6093c7ec0cf73d7c" class="sites-navigation-link">Mogogol</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/muse" jotId="wuid:gx:36f5a73b50ff8aab" class="sites-navigation-link">Muse</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/numistian" jotId="wuid:gx:3c1dfc8b8023c625" class="sites-navigation-link">Numistian</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/oakling" jotId="wuid:gx:439d2bcdd7aae62b" class="sites-navigation-link">Oakling</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/Obitu" jotId="wuid:gx:508b348cdafd2290" class="sites-navigation-link">Obitu</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/relluk" jotId="wuid:gx:54810b56d579a476" class="sites-navigation-link">Relluk</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/squole" jotId="wuid:gx:3676e9b0b20d8121" class="sites-navigation-link">Squole</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/taddol" jotId="wuid:gx:40d72e3fe6aaff45" class="sites-navigation-link">Taddol</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/xax" jotId="wuid:gx:7d597fda43dfa165" class="sites-navigation-link">Xax</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/alluria-publishing/zif" jotId="wuid:gx:7204695210d12dd6" class="sites-navigation-link">Zif</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:28798dd0c84a2f8"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/races/3rd-party-races/jon-brazer-enterprises" jotId="wuid:gx:28798dd0c84a2f8" class="sites-navigation-link">Jon Brazer Enterprises</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/jon-brazer-enterprises/high-goblin-jbe" jotId="wuid:gx:6c49d772e7828c14" class="sites-navigation-link">High Goblin</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:39eade6949f14eeb"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/races/3rd-party-races/paizo-fans-united" jotId="wuid:gx:39eade6949f14eeb" class="sites-navigation-link">Paizo Fans United</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/paizo-fans-united/lizardfolk" jotId="wuid:gx:5b3cc1b56d48f372" class="sites-navigation-link">Lizardfolk</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/paizo-fans-united/svartalfar" jotId="wuid:gx:6a25155e15e28817" class="sites-navigation-link">Svartalfar</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:27f210284e44776e"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/races/3rd-party-races/super-genius-games" jotId="wuid:gx:27f210284e44776e" class="sites-navigation-link">Super Genius Games</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/super-genius-games/asterion" jotId="wuid:gx:23a186cb219ba7f1" class="sites-navigation-link">Asterion</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/super-genius-games/lapith" jotId="wuid:gx:6ea98c6c93039dfb" class="sites-navigation-link">Lapith</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/races/3rd-party-races/super-genius-games/piper" jotId="wuid:gx:257714464d151ef4" class="sites-navigation-link">Piper</a>
+</div></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:6e437c9ae81ef23c"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/classes" jotId="wuid:gx:6e437c9ae81ef23c" class="sites-navigation-link topLevel">Classes</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/classes/character-advancement" jotId="wuid:gx:492581eb131b5f5f" class="sites-navigation-link">Character Advancement</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/classes/class-archetypes" jotId="wuid:gx:382f7773ea3c92fa" class="sites-navigation-link">Class Archetypes</a>
+</div></li>
+<li class="parent closed" wuid="gx:7eeb377eac4631e2"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/classes/core-classes" jotId="wuid:gx:7eeb377eac4631e2" class="sites-navigation-link">Core Classes</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/barbarian" jotId="wuid:gx:1fb4cd30cb85c5d0" class="sites-navigation-link">Barbarian</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/bard" jotId="wuid:gx:9e8df2e50c3bf54" class="sites-navigation-link">Bard</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/cleric" jotId="wuid:gx:2c2ef4c884709d4d" class="sites-navigation-link">Cleric</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/druid" jotId="wuid:gx:58ed289096cc5466" class="sites-navigation-link">Druid</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/fighter" jotId="wuid:gx:27c41b5be0991ff4" class="sites-navigation-link">Fighter</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/monk" jotId="wuid:gx:11df5bf19ddd2b23" class="sites-navigation-link">Monk</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/paladin" jotId="wuid:gx:49e31ea6f0a10cd4" class="sites-navigation-link">Paladin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/ranger" jotId="wuid:gx:323b75f5e2e8c25c" class="sites-navigation-link">Ranger</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/rogue" jotId="wuid:gx:813541537fd4b8e" class="sites-navigation-link">Rogue</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/sorcerer" jotId="wuid:gx:486a0fd0c8c2d46c" class="sites-navigation-link">Sorcerer</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/core-classes/wizard" jotId="wuid:gx:149b19abf6688c7d" class="sites-navigation-link">Wizard</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:7233a83229ee9cfe"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/classes/base-classes" jotId="wuid:gx:7233a83229ee9cfe" class="sites-navigation-link">Base Classes</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/base-classes/alchemist" jotId="wuid:gx:b3988667870a4ae" class="sites-navigation-link">Alchemist</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/base-classes/cavalier" jotId="wuid:gx:3c96566e7090113c" class="sites-navigation-link">Cavalier</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/base-classes/gunslinger" jotId="wuid:gx:49fec7528706f3a5" class="sites-navigation-link">Gunslinger</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/base-classes/inquisitor" jotId="wuid:gx:2c43c6ed3071fb2c" class="sites-navigation-link">Inquisitor</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/base-classes/magus" jotId="wuid:gx:6bf1e456d3d152e9" class="sites-navigation-link">Magus</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/base-classes/oracle" jotId="wuid:gx:a364755e5bb3f7c" class="sites-navigation-link">Oracle</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/base-classes/summoner" jotId="wuid:gx:70a38424e7ee4bbb" class="sites-navigation-link">Summoner</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/base-classes/witch" jotId="wuid:gx:3c1ba92ede3943bc" class="sites-navigation-link">Witch</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:5ed3a95c02a65f5f"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/classes/alternate-classes" jotId="wuid:gx:5ed3a95c02a65f5f" class="sites-navigation-link">Alternate Classes</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/alternate-classes/antipaladin" jotId="wuid:gx:4c30561d4d3e4f60" class="sites-navigation-link">Antipaladin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/alternate-classes/ninja" jotId="wuid:gx:49dafccfc5c25715" class="sites-navigation-link">Ninja</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/alternate-classes/samurai" jotId="wuid:gx:1c0ce8f8e6cb1222" class="sites-navigation-link">Samurai</a>
+</div></li>
+</ul>
+</li>
+<li class="parent" wuid="gx:3862966429f933ba"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/classes/prestige-classes" jotId="wuid:gx:3862966429f933ba" class="sites-navigation-link">Prestige Classes</a>
+</div><ul>
+<li class="parent" wuid="gx:1a7aa5c42575ff8c"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/prestige-classes/core-rulebook" jotId="wuid:gx:1a7aa5c42575ff8c" class="sites-navigation-link">Core Rulebook</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/core-rulebook/arcane-archer" jotId="wuid:gx:71ec9f203bc1c948" class="sites-navigation-link">Arcane Archer</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/core-rulebook/arcane-trickster" jotId="wuid:gx:3163565c0bd8abd" class="sites-navigation-link">Arcane Trickster</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/core-rulebook/assassin" jotId="wuid:gx:4ed0b225adb794f4" class="sites-navigation-link">Assassin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/core-rulebook/dragon-disciple" jotId="wuid:gx:57b3aea93064c9db" class="sites-navigation-link">Dragon Disciple</a>
+</div></li>
+<li class=""><div class="current-bg" jotId="wuid:gx:4f1dc50f36989b00" dir="ltr" style="padding-left: 76px;">Duelist
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/core-rulebook/eldritch-knight" jotId="wuid:gx:47348a7af8545bb" class="sites-navigation-link">Eldritch Knight</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/core-rulebook/loremaster" jotId="wuid:gx:60a7a4bd85da07f7" class="sites-navigation-link">Loremaster</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/core-rulebook/mystic-theurge" jotId="wuid:gx:65d5c09a9a61c579" class="sites-navigation-link">Mystic Theurge</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/core-rulebook/pathfinder-chronicler" jotId="wuid:gx:3ea55222dd585c88" class="sites-navigation-link">Pathfinder Chronicler</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/core-rulebook/shadowdancer" jotId="wuid:gx:2ad56714a49b1cdb" class="sites-navigation-link">Shadowdancer</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:59b50e111486362a"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/prestige-classes/other-paizo" jotId="wuid:gx:59b50e111486362a" class="sites-navigation-link">Other Paizo</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/a-b/agent-of-the-grave" jotId="wuid:gx:1a33e99cd8057546" class="sites-navigation-link">Agent of the Grave</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/a-b/balanced-scale-of-abadar" jotId="wuid:gx:2bac4e12d451630e" class="sites-navigation-link">Balanced Scale of Abadar</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/a-b/battle-herald" jotId="wuid:gx:1729b9ac08dd79c7" class="sites-navigation-link">Battle Herald</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/a-b/bloatmage" jotId="wuid:gx:6013f39849570715" class="sites-navigation-link">Bloatmage</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/a-b/brightness-seeker" jotId="wuid:gx:5c80620fc40179d7" class="sites-navigation-link">Brightness Seeker</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/c-d/chevalier" jotId="wuid:gx:5a8069bbc99c79de" class="sites-navigation-link">Chevalier</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/c-d/cyphermage" jotId="wuid:gx:5647dffbdb4032eb" class="sites-navigation-link">Cyphermage</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/c-d/daivrat" jotId="wuid:gx:6dd742a799112491" class="sites-navigation-link">Daivrat</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/c-d/demoniac" jotId="wuid:gx:5ff0276a53da69ee" class="sites-navigation-link">Demoniac</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/c-d/diabolist" jotId="wuid:gx:5a42b64890fdccc3" class="sites-navigation-link">Diabolist</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/c-d/divine-scion" jotId="wuid:gx:3a74f6eb772e008b" class="sites-navigation-link">Divine Scion</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/e-h/genie-binder" jotId="wuid:gx:1a7925f7b402a08d" class="sites-navigation-link">Genie Binder</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/e-h/halfling-opportunist" jotId="wuid:gx:40e5268b870add5e" class="sites-navigation-link">Halfling Opportunist</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/e-h/harrower" jotId="wuid:gx:3382003271786b0e" class="sites-navigation-link">Harrower</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/e-h/hellknight" jotId="wuid:gx:19004c597d7840fb" class="sites-navigation-link">Hellknight</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/e-h/holy-vindicator" jotId="wuid:gx:358b9331792b71f4" class="sites-navigation-link">Holy Vindicator</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/e-h/horizon-walker" jotId="wuid:gx:59863825b5ab785a" class="sites-navigation-link">Horizon Walker</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/i-m/inheritor-s-crusader" jotId="wuid:gx:549cf7614d4ade86" class="sites-navigation-link">Inheritor's Crusader</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/i-m/inner-sea-pirate" jotId="wuid:gx:473488a266fb9f4" class="sites-navigation-link">Inner Sea Pirate</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/i-m/justiciar" jotId="wuid:gx:5ad70004589cb4ce" class="sites-navigation-link">Justiciar</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/i-m/liberator" jotId="wuid:gx:74fa0bb7b85344bd" class="sites-navigation-link">Liberator</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/i-m/lion-blade" jotId="wuid:gx:f3efcca90fc4958" class="sites-navigation-link">Lion Blade</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/i-m/living-monolith" jotId="wuid:gx:3c838fd83fb93f5b" class="sites-navigation-link">Living Monolith</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/i-m/low-templar" jotId="wuid:gx:5564cc8853ce9885" class="sites-navigation-link">Low Templar</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/i-m/master-chymist" jotId="wuid:gx:4e4b55534d9f3e93" class="sites-navigation-link">Master Chymist</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/i-m/master-spy" jotId="wuid:gx:b86dc1243da8e53" class="sites-navigation-link">Master Spy</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/n-r/nature-warden" jotId="wuid:gx:20663ce28f779fdf" class="sites-navigation-link">Nature Warden</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/n-r/pain-taster" jotId="wuid:gx:79b979c459232051" class="sites-navigation-link">Pain Taster</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/n-r/pathfinder-delver" jotId="wuid:gx:189abd7298b5e6eb" class="sites-navigation-link">Pathfinder Delver</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/n-r/pathfinder-savant" jotId="wuid:gx:4f989889b290bbfa" class="sites-navigation-link">Pathfinder Savant</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/n-r/rage-prophet" jotId="wuid:gx:1a4791dede85e607" class="sites-navigation-link">Rage Prophet</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/n-r/red-mantis-assassin" jotId="wuid:gx:6700e1e635867ac0" class="sites-navigation-link">Red Mantis Assassin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/s-z/shackles-pirate" jotId="wuid:gx:68f2f49126f32e6a" class="sites-navigation-link">Shackles Pirate</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/s-z/souldrinker" jotId="wuid:gx:3f90222b81c5c8f6" class="sites-navigation-link">Souldrinker</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/s-z/spherewalker" jotId="wuid:gx:6fd525f256225c45" class="sites-navigation-link">Spherewalker</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/s-z/stalwart-defender" jotId="wuid:gx:3608dc6481a23a34" class="sites-navigation-link">Stalwart Defender</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/s-z/steel-falcon" jotId="wuid:gx:2226d6ef526b1e7b" class="sites-navigation-link">Steel Falcon</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/prestige-classes/other-paizo/s-z/student-of-war" jotId="wuid:gx:49374543a1738382" class="sites-navigation-link">Student of War</a>
+</div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:3e74195681a62a92"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/classes/npc-classes" jotId="wuid:gx:3e74195681a62a92" class="sites-navigation-link">NPC Classes</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/npc-classes/non-player-characters" jotId="wuid:gx:bb694c697fa939d" class="sites-navigation-link">Creating NPCs</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/npc-classes/adept" jotId="wuid:gx:22687045d930b60f" class="sites-navigation-link">Adept</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/npc-classes/aristocrat" jotId="wuid:gx:1203176437e96a2d" class="sites-navigation-link">Aristocrat</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/npc-classes/commoner" jotId="wuid:gx:66cf9bcf3b49e43d" class="sites-navigation-link">Commoner</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/npc-classes/expert" jotId="wuid:gx:3a4ddc22dc1fbc63" class="sites-navigation-link">Expert</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/classes/npc-classes/warrior" jotId="wuid:gx:74c56266d4f1625a" class="sites-navigation-link">Warrior</a>
+</div></li>
+<li class="parent closed" wuid="gx:60279299ccf13a55"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-npc-classes" jotId="wuid:gx:60279299ccf13a55" class="sites-navigation-link">3rd Party NPC Classes</a>
+</div><ul>
+<li class="parent closed" wuid="gx:4857d2de130629d5"><div dir="ltr" style="padding-left: 57px;"><div class="expander"></div><a href="/classes/3rd-party-npc-classes/4-winds-fantasy-gaming" jotId="wuid:gx:4857d2de130629d5" class="sites-navigation-link">4 Winds Fantasy Gaming</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 95px;"><a href="/classes/3rd-party-npc-classes/4-winds-fantasy-gaming/courtesan" jotId="wuid:gx:23e71e4bc2a4ed21" class="sites-navigation-link">Courtesan</a>
+</div></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:1e5e5284a68f1c3a"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/classes/3rd-party-classes" jotId="wuid:gx:1e5e5284a68f1c3a" class="sites-navigation-link">3rd Party Classes</a>
+</div><ul>
+<li class="parent closed" wuid="gx:6407357abd3bdae2"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-classes/4-winds-fantasy-gaming" jotId="wuid:gx:6407357abd3bdae2" class="sites-navigation-link">4 Winds Fantasy Gaming</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/4-winds-fantasy-gaming/apprentice" jotId="wuid:gx:18231fd3fbd8b521" class="sites-navigation-link">Apprentice</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/4-winds-fantasy-gaming/gladiator" jotId="wuid:gx:374fe97196a0a559" class="sites-navigation-link">Gladiator</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/4-winds-fantasy-gaming/schooled-bard" jotId="wuid:gx:4af4ad3beb508140" class="sites-navigation-link">Schooled Bard</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/4-winds-fantasy-gaming/voyageur" jotId="wuid:gx:7295d26485aea67f" class="sites-navigation-link">Voyageur</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:5147e4c926493b2a"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-classes/adamant-entertainment" jotId="wuid:gx:5147e4c926493b2a" class="sites-navigation-link">Adamant Entertainment</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/adamant-entertainment/artificer" jotId="wuid:gx:49f4a00625955e6" class="sites-navigation-link">Artificer</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/adamant-entertainment/knight" jotId="wuid:gx:278f16f9ae85e371" class="sites-navigation-link">Knight</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/adamant-entertainment/priest" jotId="wuid:gx:4f6d4676f845778f" class="sites-navigation-link">Priest</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/adamant-entertainment/shaman" jotId="wuid:gx:40def3e13613eef6" class="sites-navigation-link">Shaman</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/adamant-entertainment/spellblade" jotId="wuid:gx:660670bd820a32d9" class="sites-navigation-link">Spellblade</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/adamant-entertainment/swashbuckler" jotId="wuid:gx:ee84634eb3bdbfb" class="sites-navigation-link">Swashbuckler</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/adamant-entertainment/warlock" jotId="wuid:gx:27e46125b276ebc" class="sites-navigation-link">Warlock</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/adamant-entertainment/tos---warlord" jotId="wuid:gx:6f4ce08d8a55ed66" class="sites-navigation-link">Warlord</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:18ce68cc65c50123"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-classes/open-design" jotId="wuid:gx:18ce68cc65c50123" class="sites-navigation-link">Open Design</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/open-design/elven-archer" jotId="wuid:gx:acb7f9077733442" class="sites-navigation-link">Elven Archer</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:9061e8c1488876e"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-classes/rite-publishing" jotId="wuid:gx:9061e8c1488876e" class="sites-navigation-link">Rite Publishing</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/rite-publishing/taskshaper" jotId="wuid:gx:1b9ae3cec515a88a" class="sites-navigation-link">Taskshaper</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:20ae9722757eca45"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-classes/sean-k-reynolds-games" jotId="wuid:gx:20ae9722757eca45" class="sites-navigation-link">Sean K. Reynolds Games</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/sean-k-reynolds-games/hellenic-sorceress" jotId="wuid:gx:2c38889c74621b66" class="sites-navigation-link">Hellenic Sorceress</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:8ed0bf61313d86"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-classes/super-genius-games" jotId="wuid:gx:8ed0bf61313d86" class="sites-navigation-link">Super Genius Games</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/adept-godling" jotId="wuid:gx:1075d7c15344b157" class="sites-navigation-link">Adept Godling</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/archon" jotId="wuid:gx:5fe7e0056b56b662" class="sites-navigation-link">Archon</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/armiger" jotId="wuid:gx:42eef635a1ac27d5" class="sites-navigation-link">Armiger</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/clever-godling" jotId="wuid:gx:493d816f349aedfd" class="sites-navigation-link">Clever Godling</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/death-mage" jotId="wuid:gx:13c87923514d398b" class="sites-navigation-link">Death Mage</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/dragonrider" jotId="wuid:gx:5d620debf3a95314" class="sites-navigation-link">Dragonrider</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/eldritch-godling" jotId="wuid:gx:24cf8b3b68b5a087" class="sites-navigation-link">Eldritch Godling</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/magister" jotId="wuid:gx:5598b4a65732684c" class="sites-navigation-link">Magister</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/mighty-godling" jotId="wuid:gx:55a7eb70de4147a3" class="sites-navigation-link">Mighty Godling</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/Shadow-Assassin" jotId="wuid:gx:236c7e8e95c74469" class="sites-navigation-link">Shadow Assassin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/shaman" jotId="wuid:gx:7661f4c159ab98f2" class="sites-navigation-link">Shaman</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/time-thief" jotId="wuid:gx:7219a813366f6579" class="sites-navigation-link">Time Thief</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/vanguard" jotId="wuid:gx:1925995eab474686" class="sites-navigation-link">Vanguard</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/war-master" jotId="wuid:gx:7c83f4f79b7fed1f" class="sites-navigation-link">War Master</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/super-genius-games/witch-hunter" jotId="wuid:gx:27c43e8de7038219" class="sites-navigation-link">Witch Hunter</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:772c214e46fe2c69"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-classes/tripod-machine" jotId="wuid:gx:772c214e46fe2c69" class="sites-navigation-link">Tripod Machine</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/beastmaster" jotId="wuid:gx:6c4ba945d6936f09" class="sites-navigation-link">Beastmaster</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/bounty-hunter" jotId="wuid:gx:4a6d6141fe93aa76" class="sites-navigation-link">Bounty Hunter</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/corbie" jotId="wuid:gx:1edebd9bbe6fddd" class="sites-navigation-link">Corbie</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/corsair" jotId="wuid:gx:6c54227e7ea5b2ca" class="sites-navigation-link">Corsair</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/gladiator" jotId="wuid:gx:81247f472e79806" class="sites-navigation-link">Gladiator</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/hunter" jotId="wuid:gx:4bcc6398c9e4b58b" class="sites-navigation-link">Hunter</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/knight" jotId="wuid:gx:34a5a200759d0e1e" class="sites-navigation-link">Knight</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/martial-artist" jotId="wuid:gx:7cfbecbe7be4baf5" class="sites-navigation-link">Martial Artist</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/scholar" jotId="wuid:gx:19af1feb9196cb20" class="sites-navigation-link">Scholar</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/scout" jotId="wuid:gx:504488ea1ba8d3b7" class="sites-navigation-link">Scout</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-classes/tripod-machine/spy" jotId="wuid:gx:266816630bdf5693" class="sites-navigation-link">Spy</a>
+</div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:d9d06e045dfe9d4"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/classes/3rd-party-prestige-classes" jotId="wuid:gx:d9d06e045dfe9d4" class="sites-navigation-link">3rd Party Prestige Classes</a>
+</div><ul>
+<li class="parent closed" wuid="gx:13ed589be45e2a3"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming" jotId="wuid:gx:13ed589be45e2a3" class="sites-navigation-link">4 Winds Fantasy Gaming</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming/armor-bonded" jotId="wuid:gx:cf7d41321f08d84" class="sites-navigation-link">Armor Bonded</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming/blood-caster" jotId="wuid:gx:5ad91e15d5e53051" class="sites-navigation-link">Blood Caster</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming/butcher" jotId="wuid:gx:427ac842f57fe537" class="sites-navigation-link">Butcher</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming/child-of-bast" jotId="wuid:gx:610fdeeb57b0308e" class="sites-navigation-link">Child of Bast</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming/crypt-stalker" jotId="wuid:gx:2fcbd6c8378e0393" class="sites-navigation-link">Crypt Stalker</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming/daredevil" jotId="wuid:gx:799e62b1794886a5" class="sites-navigation-link">Daredevil</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming/ioun-angel" jotId="wuid:gx:22ed07a81d5b4162" class="sites-navigation-link">Ioun Angel</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming/jinx" jotId="wuid:gx:56ccb217acf9046a" class="sites-navigation-link">Jinx</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming/pikeman" jotId="wuid:gx:42136750e76f3e62" class="sites-navigation-link">Pikeman</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/4-winds-fantasy-gaming/tin-man" jotId="wuid:gx:6ac880d55e3932b8" class="sites-navigation-link">Tin Man</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:35cb4c0f9d331bb5"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-prestige-classes/alluria-publishing" jotId="wuid:gx:35cb4c0f9d331bb5" class="sites-navigation-link">Alluria Publishing</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/abolisher" jotId="wuid:gx:7b59a8d4bc6b6428" class="sites-navigation-link">Abolisher</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/archeovitus" jotId="wuid:gx:2f41c899937fce92" class="sites-navigation-link">Archeovitus</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/battletwin" jotId="wuid:gx:cb55df21dd12018" class="sites-navigation-link">Battletwin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/deathseeker" jotId="wuid:gx:4de1357584999095" class="sites-navigation-link">Deathseeker</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/demolisher" jotId="wuid:gx:7f83e0b8832173d9" class="sites-navigation-link">Demolisher</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/entrepreneur" jotId="wuid:gx:50b87f60f3c75da3" class="sites-navigation-link">Entrepreneur</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/golden-muse" jotId="wuid:gx:6ec874104943f352" class="sites-navigation-link">Golden Muse</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/grim-reaper" jotId="wuid:gx:58bc4206667063d1" class="sites-navigation-link">Grim Reaper</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/lightseeker" jotId="wuid:gx:731ccdf7244a18e2" class="sites-navigation-link">Lightseeker</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/pharaoh" jotId="wuid:gx:4ac650794860b966" class="sites-navigation-link">Pharaoh</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/reverent-of-spring" jotId="wuid:gx:5f69cdbfa0fedb2b" class="sites-navigation-link">Reverent of Spring</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/savage" jotId="wuid:gx:2b515540c25cb86b" class="sites-navigation-link">Savage</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/slime-lord" jotId="wuid:gx:1e24be5fbdafd492" class="sites-navigation-link">Slime Lord</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/warrior-philosopher" jotId="wuid:gx:772e0032cef158c3" class="sites-navigation-link">Warrior Philosopher</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/alluria-publishing/zubbit" jotId="wuid:gx:c31fe73fd13ace4" class="sites-navigation-link">Zubbit</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:5e462706337ae1ff"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-prestige-classes/bastion-press" jotId="wuid:gx:5e462706337ae1ff" class="sites-navigation-link">Bastion Press</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/bastion-press/bloodtracker" jotId="wuid:gx:53382512d3047d5a" class="sites-navigation-link">Bloodtracker</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/bastion-press/dinosaur-cultist" jotId="wuid:gx:52493db568500d65" class="sites-navigation-link">Dinosaur Cultist</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/bastion-press/gutter-stalker" jotId="wuid:gx:60a76dd3ce3f083f" class="sites-navigation-link">Gutter Stalker</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/bastion-press/sea-reaver" jotId="wuid:gx:1b1c24a15dc514e0" class="sites-navigation-link">Sea Reaver</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:7665229e6686d0c8"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-prestige-classes/paizo-fans-united" jotId="wuid:gx:7665229e6686d0c8" class="sites-navigation-link">Paizo Fans United</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/paizo-fans-united/dawa-defender" jotId="wuid:gx:11fa28e0f2762212" class="sites-navigation-link">Dawa Defender</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/paizo-fans-united/dawnflower-dervish-of-sarenrae" jotId="wuid:gx:7c61bb818fcc5a1" class="sites-navigation-link">Dawnflower Dervish of Sarenrae</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/paizo-fans-united/gunslinger" jotId="wuid:gx:4e542531a600fd49" class="sites-navigation-link">Gunslinger</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/paizo-fans-united/necro-lord-of-urgathoa" jotId="wuid:gx:6742fc44d055f330" class="sites-navigation-link">Necro-Lord of Urgathoa</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/paizo-fans-united/shadow-scout" jotId="wuid:gx:fee7594bf6867bf" class="sites-navigation-link">Shadow Scout</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:115d76ed1d74f5b7"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-prestige-classes/sean-k-reynolds-games" jotId="wuid:gx:115d76ed1d74f5b7" class="sites-navigation-link">Sean K Reynolds Games</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/sean-k-reynolds-games/serpent-archer" jotId="wuid:gx:c96fe2f8d287919" class="sites-navigation-link">Serpent Archer</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:a35b16989a45e42"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/classes/3rd-party-prestige-classes/super-genius-games" jotId="wuid:gx:a35b16989a45e42" class="sites-navigation-link">Super Genius Games</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/super-genius-games/godling" jotId="wuid:gx:289232b61d5bc256" class="sites-navigation-link">Godling</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/super-genius-games/dauntless-shield" jotId="wuid:gx:20fbb5cc2e84d40c" class="sites-navigation-link">Dauntless Shield</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/super-genius-games/unseen-hand" jotId="wuid:gx:61ec672746dc1ee9" class="sites-navigation-link">Unseen Hand</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/3rd-party-prestige-classes/super-genius-games/warding-eye" jotId="wuid:gx:f7892b54e245d80" class="sites-navigation-link">Warding Eye</a>
+</div></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:750de47a3123def1"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/feats" jotId="wuid:gx:750de47a3123def1" class="sites-navigation-link topLevel">Feats</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/feats-db" jotId="wuid:gx:6cec548ccae1bbf5" class="sites-navigation-link">Feats DB</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/feat-tree" jotId="wuid:gx:6be3a5b8f073b1db" class="sites-navigation-link">Feat Tree</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/achievement-feats" jotId="wuid:gx:5cf3c8f6901364ec" class="sites-navigation-link">Achievement Feats</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/channeling-feats" jotId="wuid:gx:1ab79265736662fc" class="sites-navigation-link">Channeling Feats</a>
+</div></li>
+<li class="parent closed" wuid="gx:4fc6e93997e3e625"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/feats/combat-feats" jotId="wuid:gx:4fc6e93997e3e625" class="sites-navigation-link">Combat Feats</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/combat-feats/combat-feats-filter" jotId="wuid:gx:1491c8c5b9eb9612" class="sites-navigation-link">Combat Feats (Filter)</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:7824152509c0060e"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/feats/general-feats" jotId="wuid:gx:7824152509c0060e" class="sites-navigation-link">General Feats</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/general-feats/general-feats-filter" jotId="wuid:gx:400014ef69adbeb3" class="sites-navigation-link">General Feats (Filter)</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/grit-feats" jotId="wuid:gx:510eb2aa870ebcc9" class="sites-navigation-link">Grit Feats</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/item-creation-feats" jotId="wuid:gx:688e175b8b7f4bdb" class="sites-navigation-link">Item Creation Feats</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/local-feats" jotId="wuid:gx:29cb795c6582e272" class="sites-navigation-link">Local Feats</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/metamagic-feats" jotId="wuid:gx:2fdc146d0adf0f0e" class="sites-navigation-link">Metamagic Feats</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/monster-feats" jotId="wuid:gx:5a91ee948f958a4d" class="sites-navigation-link">Monster Feats</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/performance-feats" jotId="wuid:gx:171602e5a9dcd5c7" class="sites-navigation-link">Performance Feats</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/arg-feats" jotId="wuid:gx:3c069e5d5527a6cb" class="sites-navigation-link">Racial Feats</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/style-feats" jotId="wuid:gx:7007f2cd73ce04f6" class="sites-navigation-link">Style Feats</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/feats/teamwork-feats" jotId="wuid:gx:17fb25142e583932" class="sites-navigation-link">Teamwork Feats</a>
+</div></li>
+<li class="parent closed" wuid="gx:448175bcd3b733cb"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/feats/3rd-party-feats" jotId="wuid:gx:448175bcd3b733cb" class="sites-navigation-link">3rd Party Feats</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/4-winds-fantasy-gaming" jotId="wuid:gx:66edd0b0543857d" class="sites-navigation-link">4 Winds Fantasy Gaming</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/adamant-entertainment" jotId="wuid:gx:3899aa800b7534c3" class="sites-navigation-link">Adamant Entertainment</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/alluria-publishing" jotId="wuid:gx:7eb33626b1601e32" class="sites-navigation-link">Alluria Publishing</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/en-publishing---3rd-party-feats" jotId="wuid:gx:736b186bafcb9a30" class="sites-navigation-link">EN Publishing</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/jon-brazer-enterprises" jotId="wuid:gx:f35d262a8e36585" class="sites-navigation-link">Jon Brazer Enterprises</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/necromancer-games" jotId="wuid:gx:59d5373d5688963d" class="sites-navigation-link">Necromancer Games</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/necromancers-of-the-northwest" jotId="wuid:gx:69870e8e8157344a" class="sites-navigation-link">Necromancers of the Northwest</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/open-design" jotId="wuid:gx:30501d178cbb82d3" class="sites-navigation-link">Open Design</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/paizo-fans-united" jotId="wuid:gx:1425ba3dae110c83" class="sites-navigation-link">Paizo Fans United</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/rite-publishing" jotId="wuid:gx:45e8471b65d91793" class="sites-navigation-link">Rite Publishing</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/sean-k-reynolds-games" jotId="wuid:gx:940190d46abb8f1" class="sites-navigation-link">Sean K. Reynolds Games</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/super-genius-games" jotId="wuid:gx:12fb4e3888936d73" class="sites-navigation-link">Super Genius Games</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/tricky-owlbear-publishing" jotId="wuid:gx:6d682399cb57931c" class="sites-navigation-link">Tricky Owlbear Publishing</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/feats/3rd-party-feats/tripod-machine" jotId="wuid:gx:125ba17babcfaf1b" class="sites-navigation-link">Tripod Machine</a>
+</div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="/skills" jotId="wuid:gx:12beadb0c8e6babd" class="sites-navigation-link topLevel">Skills</a>
+</div></li>
+<li class="topLevel parent" wuid="gx:799c3a6562082e31"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/traits" jotId="wuid:gx:799c3a6562082e31" class="sites-navigation-link topLevel">Traits</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/traits/traits-db" jotId="wuid:gx:1f597da0f8add28b" class="sites-navigation-link">Traits DB</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/traits/combat-traits" jotId="wuid:gx:3ac16f2bfbbea694" class="sites-navigation-link">Combat Traits</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/traits/equipment-traits" jotId="wuid:gx:546b80b8edc3d37b" class="sites-navigation-link">Equipment Traits</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/traits/faith-traits" jotId="wuid:gx:1d63c7d3902c6fba" class="sites-navigation-link">Faith Traits</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/traits/magic-traits" jotId="wuid:gx:7afd021d408a2144" class="sites-navigation-link">Magic Traits</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/traits/race-traits" jotId="wuid:gx:14ed51da9c9896fc" class="sites-navigation-link">Race Traits</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/traits/regional-traits" jotId="wuid:gx:67771800499cb031" class="sites-navigation-link">Regional Traits</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/traits/social-traits" jotId="wuid:gx:7a73981d1916afd4" class="sites-navigation-link">Social Traits</a>
+</div></li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:1bcaba79d6b6a0a8"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/equipment---final" jotId="wuid:gx:1bcaba79d6b6a0a8" class="sites-navigation-link topLevel">Equipment</a>
+</div><ul>
+<li class="parent closed" wuid="gx:5aa5cf83377deec"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/equipment---final/armor" jotId="wuid:gx:5aa5cf83377deec" class="sites-navigation-link">Armor and Shields</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/armor/eastern-armor-and-shields" jotId="wuid:gx:6d18af5d683a3078" class="sites-navigation-link">Eastern Armor</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/equipment---final/damaging-objects" jotId="wuid:gx:2cd82ac7ad86c031" class="sites-navigation-link">Damaging Objects</a>
+</div></li>
+<li class="parent closed" wuid="gx:511a50c635b13603"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/equipment---final/goods-and-services" jotId="wuid:gx:511a50c635b13603" class="sites-navigation-link">Goods and Services</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/animals-animal-gear" jotId="wuid:gx:4512c38ce5c5c88" class="sites-navigation-link">Animals &amp; Animal Gear</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/books-paper-writing-supplies" jotId="wuid:gx:3cf1af81d3b62448" class="sites-navigation-link">Books, Paper, &amp; Writing Supplies</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/clothing-accessories" jotId="wuid:gx:27ec114fcd19f504" class="sites-navigation-link">Clothing &amp; Accessories</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/containers-bags-boxes-more" jotId="wuid:gx:465ce9f13c4a6ff0" class="sites-navigation-link">Containers (Bags, Boxes &amp; More)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/toys-games-puzzles" jotId="wuid:gx:7c39bb31392da4ee" class="sites-navigation-link">Entertainment (Toys, Games, Puzzles &amp; More)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/food-drink-lodging" jotId="wuid:gx:7a5541a08565f7b6" class="sites-navigation-link">Food, Drink, &amp; Lodging</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/furniture-and-decorations" jotId="wuid:gx:1fc273fabb041134" class="sites-navigation-link">Furniture and Decorations</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/herbs-oils-other-substances" jotId="wuid:gx:5dd22890fa7b888" class="sites-navigation-link">Herbs, Oils, &amp; Special Substances</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/hirelings-servants-services" jotId="wuid:gx:53142ac9aee80248" class="sites-navigation-link">Hirelings, Servants &amp; Services</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/hunting-camping-survival-gear" jotId="wuid:gx:7067dcf42c8ffb5d" class="sites-navigation-link">Hunting, Camping &amp; Survival Gear</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/illuminations-explosives" jotId="wuid:gx:4bb1ac0b86b77787" class="sites-navigation-link">Illuminations, Flammables &amp; Explosives</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/locks-keys-chains-manacles" jotId="wuid:gx:16732b942c4c71c8" class="sites-navigation-link">Locks, Keys, Chains &amp; Manacles</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/religious-items" jotId="wuid:gx:3fa993f10991c6cd" class="sites-navigation-link">Religious Items</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/tools-kits" jotId="wuid:gx:e2f74076d04d23d" class="sites-navigation-link">Tools &amp; Kits</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/trade-goods" jotId="wuid:gx:25848084fb3dde1e" class="sites-navigation-link">Trade Goods</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/goods-and-services/weapon-and-armor-accessories" jotId="wuid:gx:1d17b5729ec956a6" class="sites-navigation-link">Weapon &amp; Armor Accessories</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/equipment---final/special-materials" jotId="wuid:gx:72a15bf08dcc19d1" class="sites-navigation-link">Special Materials</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/equipment---final/vehicles" jotId="wuid:gx:7e3f038e755e397f" class="sites-navigation-link">Vehicles</a>
+</div></li>
+<li class="parent closed" wuid="gx:263b242deee35608"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/equipment---final/weapons" jotId="wuid:gx:263b242deee35608" class="sites-navigation-link">Weapons</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/firearms" jotId="wuid:gx:183cec78ab504e49" class="sites-navigation-link">Firearms</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/weapons/stone-age-weapons" jotId="wuid:gx:6056684132ff7460" class="sites-navigation-link">Stone Age Weapons</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/weapons/bronze-age-weapons" jotId="wuid:gx:63a262848a945bd0" class="sites-navigation-link">Bronze Age Weapons</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/equipment---final/weapons/eastern-weapons" jotId="wuid:gx:5a437b80b6703bfc" class="sites-navigation-link">Eastern Weapons</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/equipment---final/3rd-party-equipment" jotId="wuid:gx:6e7735b94894e7ac" class="sites-navigation-link">3rd Party Equipment</a>
+</div></li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:3c1ecb3d4622eca0"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/magic-items" jotId="wuid:gx:3c1ecb3d4622eca0" class="sites-navigation-link topLevel">Magic Items</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/magic-items-db" jotId="wuid:gx:1a7859f72517cf5d" class="sites-navigation-link">Magic Items DB</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/artifacts" jotId="wuid:gx:1dfd94e5638fc743" class="sites-navigation-link">Artifacts</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/cursed-items" jotId="wuid:gx:314c0e335c135ec7" class="sites-navigation-link">Cursed Items</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/intelligent-items" jotId="wuid:gx:2d7855f6fbbf5cb3" class="sites-navigation-link">Intelligent Items</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/magic-armor" jotId="wuid:gx:55600d3802f22c34" class="sites-navigation-link">Magic Armor</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/magic-weapons" jotId="wuid:gx:10ec1e7eabe3d27c" class="sites-navigation-link">Magic Weapons</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/potions" jotId="wuid:gx:13f1c94a5030f78f" class="sites-navigation-link">Potions</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/rings" jotId="wuid:gx:435ba2a9f3881fee" class="sites-navigation-link">Rings</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/rods" jotId="wuid:gx:52ad74d1014e3022" class="sites-navigation-link">Rods</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/scrolls" jotId="wuid:gx:346096866d3bf28c" class="sites-navigation-link">Scrolls</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/staves" jotId="wuid:gx:503cc9db95df0a5f" class="sites-navigation-link">Staves</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/thassilonian-runes" jotId="wuid:gx:1596047a98e05e37" class="sites-navigation-link">Thassilonian Runes</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/wands" jotId="wuid:gx:d694afab9494689" class="sites-navigation-link">Wands</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/wondrous-items/wondrous-items" jotId="wuid:gx:3cdbf7ca071c2328" class="sites-navigation-link">Wondrous Items</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic-items/3rd-party-magic-items" jotId="wuid:gx:27b2ec6b0eaa68cb" class="sites-navigation-link">Magic Items (3rd Party)</a>
+</div></li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:3b883ad75a8f5556"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/magic" jotId="wuid:gx:3b883ad75a8f5556" class="sites-navigation-link topLevel">Magic</a>
+</div><ul>
+<li class="parent closed" wuid="gx:22ce4b3d2e6d5d9f"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/magic/all-spells" jotId="wuid:gx:22ce4b3d2e6d5d9f" class="sites-navigation-link">Spells (Paizo)</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/all-spells/spells-a-d" jotId="wuid:gx:5aca8ec5b7614e73" class="sites-navigation-link">A-D</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/all-spells/spells-e-h" jotId="wuid:gx:a08162f764d4c5d" class="sites-navigation-link">E-H</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/all-spells/spells-i-l" jotId="wuid:gx:79d0c2ddfad44f96" class="sites-navigation-link">I-L</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/all-spells/spells-m-p" jotId="wuid:gx:27b76a8d3eb617bb" class="sites-navigation-link">M-P</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/all-spells/spells-q-t" jotId="wuid:gx:6aeef79b2ebfad15" class="sites-navigation-link">Q-T</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/all-spells/spells-u-z" jotId="wuid:gx:22e19c1532afede" class="sites-navigation-link">U-Z</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:3fcff806c157943a"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/magic/3rd-party-spells" jotId="wuid:gx:3fcff806c157943a" class="sites-navigation-link">Spells (3rd Party)</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/4-winds-fantasy-gaming---3rd-party-spells" jotId="wuid:gx:666d92156320caf5" class="sites-navigation-link">4 Winds Fantasy Gaming</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/adamant-entertainment---3rd-party-spells" jotId="wuid:gx:4365312e6586967a" class="sites-navigation-link">Adamant Entertainment</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/alluria-publishing" jotId="wuid:gx:2d92d760be41e946" class="sites-navigation-link">Alluria Publishing</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/bastion-press" jotId="wuid:gx:3069ac9d06ff17dc" class="sites-navigation-link">Bastion Press</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/frog-god-games" jotId="wuid:gx:41d290241e9f981" class="sites-navigation-link">Frog God Games</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/necromancer-games" jotId="wuid:gx:7c7c933cd9b76385" class="sites-navigation-link">Necromancer Games</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/paizo-fans-united---3rd-party-spells" jotId="wuid:gx:72198120b168f264" class="sites-navigation-link">Paizo Fans United</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/rite-publishing---3rd-party-spells" jotId="wuid:gx:2cd8fbe01a37a7b9" class="sites-navigation-link">Rite Publishing</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/sean-k-reynolds-games" jotId="wuid:gx:40ac38d4c486e0ec" class="sites-navigation-link">Sean K. Reynolds Games</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/spes-magna-games" jotId="wuid:gx:75ec7acec4ef4e9c" class="sites-navigation-link">Spes Magna Games</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/super-genius-games---3rd-party-spells" jotId="wuid:gx:68541200019dc7f1" class="sites-navigation-link">Super Genius Games</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/3rd-party-spells/tricky-owlbear-publishing---3rd-party-spells" jotId="wuid:gx:5e189a27cc58868c" class="sites-navigation-link">Tricky Owlbear Publishing</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic/outsider-categories" jotId="wuid:gx:12688637b9e069fd" class="sites-navigation-link">Binding Outsiders</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic/building-and-modifying-constructs" jotId="wuid:gx:1097ceb6f5ac7a57" class="sites-navigation-link">Building and Modifying Constructs</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic/spellbooks" jotId="wuid:gx:415d81edd25b2db" class="sites-navigation-link">Preconstructed Spellbooks</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic/primal-magic" jotId="wuid:gx:415306b743571054" class="sites-navigation-link">Primal Magic</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic/spells-db" jotId="wuid:gx:2788dbd7de2c3fb6" class="sites-navigation-link">Spells DB</a>
+</div></li>
+<li class="parent closed" wuid="gx:c8c37e058ceb560"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/magic/spell-lists-and-domains" jotId="wuid:gx:c8c37e058ceb560" class="sites-navigation-link">Spells by Class</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/formulae-lists---alchemist" jotId="wuid:gx:7a44456706595259" class="sites-navigation-link">Alchemist</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/antipaladin-spell-list" jotId="wuid:gx:1437014f86f002b0" class="sites-navigation-link">Antipaladin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/spell-lists---bard" jotId="wuid:gx:8501704e4815abd" class="sites-navigation-link">Bard</a>
+</div></li>
+<li class="parent closed" wuid="gx:66ba207987ab424"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/magic/spell-lists-and-domains/spell-lists---cleric" jotId="wuid:gx:66ba207987ab424" class="sites-navigation-link">Cleric/Oracle</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/classes/core-classes/cleric/domains" jotId="wuid:gx:10c41880067e0e01" class="sites-navigation-link">Domains</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/spell-lists---druid" jotId="wuid:gx:27ced3454ec4cf7" class="sites-navigation-link">Druid</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/spell-lists---inquisitor" jotId="wuid:gx:29ad73cd0e82a742" class="sites-navigation-link">Inquisitor</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/magus-spell-list" jotId="wuid:gx:6708271f9e98542" class="sites-navigation-link">Magus</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/spell-lists---paladin" jotId="wuid:gx:41be89618de1341c" class="sites-navigation-link">Paladin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/spell-lists---ranger" jotId="wuid:gx:da460cc197aac86" class="sites-navigation-link">Ranger</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard" jotId="wuid:gx:7991980fe2868dde" class="sites-navigation-link">Sorcerer/Wizard</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/spell-lists---summoner" jotId="wuid:gx:32a5873cab9b53f" class="sites-navigation-link">Summoner</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spell-lists-and-domains/spell-list---witch" jotId="wuid:gx:5c62d269f3fe4e67" class="sites-navigation-link">Witch</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:4ec1a2e22ecb6e8"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/magic/spells-by-class-3rd-party" jotId="wuid:gx:4ec1a2e22ecb6e8" class="sites-navigation-link">Spells by Class‎ (3rd Party)</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/alchemist-formulae-3pp" jotId="wuid:gx:3e6eadd5c0172008" class="sites-navigation-link">Alchemist Formulae (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/antipaladin-spells-3pp" jotId="wuid:gx:709f9f661c562de0" class="sites-navigation-link">Antipaladin Spells (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/bard-spells-3pp" jotId="wuid:gx:24320dcf25fb276e" class="sites-navigation-link">Bard Spells (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/cleric-oracle-spells-3pp" jotId="wuid:gx:b216c913cd37422" class="sites-navigation-link">Cleric/Oracle Spells (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/druid-spells" jotId="wuid:gx:4b34714d2667511e" class="sites-navigation-link">Druid Spells (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/inquisitor-spells-3pp" jotId="wuid:gx:6b5fbcad09c82aec" class="sites-navigation-link">Inquisitor Spells (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/magus-spells-3pp" jotId="wuid:gx:227f8205450799a2" class="sites-navigation-link">Magus Spells (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/paladin-spells-3pp" jotId="wuid:gx:7787395fbe876555" class="sites-navigation-link">Paladin Spells (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/ranger-spells-3pp" jotId="wuid:gx:3749cc47bb73072e" class="sites-navigation-link">Ranger Spells (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/sorcerer-wizard-3pp" jotId="wuid:gx:63e7ffb8d7566abf" class="sites-navigation-link">Sorcerer/Wizard (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/summoner-sp" jotId="wuid:gx:26a5a642ed60aecf" class="sites-navigation-link">Summoner Spells (3pp)</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/spells-by-class-3rd-party/witch-spells-3pp" jotId="wuid:gx:1f7d9131fd93b104" class="sites-navigation-link">Witch Spells (3pp)</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic/area-effect-diagrams" jotId="wuid:gx:2545b709178e00ba" class="sites-navigation-link">Spell Area of Effect Templates</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic/spellblights" jotId="wuid:gx:45d6711b758fa927" class="sites-navigation-link">Spellblights</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic/spell-card-generator" jotId="wuid:gx:281def0050f34d46" class="sites-navigation-link">Spellcard Generators</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic/spell-duels" jotId="wuid:gx:7e881b9709ec67f8" class="sites-navigation-link">Spell Duels</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/magic/spell-list-filters" jotId="wuid:gx:7fe25c39bfec5a84" class="sites-navigation-link">Spell List Filters</a>
+</div></li>
+<li class="parent closed" wuid="gx:42a15471fa0b7295"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/magic/words-of-power" jotId="wuid:gx:42a15471fa0b7295" class="sites-navigation-link">Words of Power</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/magic/words-of-power/words-by-class" jotId="wuid:gx:7e8538cbf15a2133" class="sites-navigation-link">Words by Class</a>
+</div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:36d6f3f9b541d1e"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/psionics-unleashed" jotId="wuid:gx:36d6f3f9b541d1e" class="sites-navigation-link topLevel">Psionics Unleashed</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/psionics-unleashed/races" jotId="wuid:gx:4604a6af382c1d35" class="sites-navigation-link">Psionic Races</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/psionics-unleashed/classes" jotId="wuid:gx:25596b39e4cc530f" class="sites-navigation-link">Psionic Classes</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/psionics-unleashed/psionic-prestige-classes" jotId="wuid:gx:5710047f2e579165" class="sites-navigation-link">Psionic Prestige Classes</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/psionics-unleashed/skills" jotId="wuid:gx:57bd357e8c3c6bd0" class="sites-navigation-link">Psionic Skills</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/psionics-unleashed/feats" jotId="wuid:gx:6e6bc4726a277e08" class="sites-navigation-link">Psionic Feats</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/psionics-unleashed/equipment" jotId="wuid:gx:1a890d1fcc24635b" class="sites-navigation-link">Psionic Equipment</a>
+</div></li>
+<li class="parent closed" wuid="gx:1abb9805d48d20c1"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/psionics-unleashed/psionic-powers" jotId="wuid:gx:1abb9805d48d20c1" class="sites-navigation-link">Psionic Powers</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/psionics-unleashed/power-list-psion-discipline-powers" jotId="wuid:gx:6e9122a9ed196df2" class="sites-navigation-link">Power List: Psion Discipline Powers</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/psionics-unleashed/power-list-psion-wilder" jotId="wuid:gx:4b0cb80a270a6452" class="sites-navigation-link">Power List: Psion/Wilder</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/psionics-unleashed/power-list-psychic-warrior" jotId="wuid:gx:61977bbd36a3e0f4" class="sites-navigation-link">Power List: Psychic Warrior</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/psionics-unleashed/power-list-vitalist" jotId="wuid:gx:31509f3bbf5c715d" class="sites-navigation-link">Power List: Vitalist</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/psionics-unleashed/psionic-bestiary" jotId="wuid:gx:33c5f050c2cb2c51" class="sites-navigation-link">Psionic Bestiary</a>
+</div></li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:385ecfa6f6bdbb81"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/gamemastering" jotId="wuid:gx:385ecfa6f6bdbb81" class="sites-navigation-link topLevel">Gamemastering</a>
+</div><ul>
+<li class="parent closed" wuid="gx:40258b95febf8bb8"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/gamemastering/afflictions" jotId="wuid:gx:40258b95febf8bb8" class="sites-navigation-link">Afflictions</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gamemastering/afflictions/curses" jotId="wuid:gx:3ea85b43f13e0f18" class="sites-navigation-link">Curses</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gamemastering/afflictions/diseases" jotId="wuid:gx:1801a8f9aa94fccc" class="sites-navigation-link">Diseases</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gamemastering/afflictions/drugs" jotId="wuid:gx:799cf1e77ee8a6d0" class="sites-navigation-link">Drugs</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gamemastering/afflictions/madness" jotId="wuid:gx:22548d89974c5f1a" class="sites-navigation-link">Madness</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gamemastering/afflictions/poison" jotId="wuid:gx:1afadb3b240ea4c" class="sites-navigation-link">Poison</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/chases" jotId="wuid:gx:73bbc2f4c812004a" class="sites-navigation-link">Chases</a>
+</div></li>
+<li class="parent closed" wuid="gx:3f2bed0f5362904b"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/gamemastering/combat" jotId="wuid:gx:3f2bed0f5362904b" class="sites-navigation-link">Combat</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gamemastering/combat/space-reach-threatened-area-templates" jotId="wuid:gx:3ac743cb4d498ac8" class="sites-navigation-link">Space, Reach, &amp; Threatened Area Templates</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/conditions" jotId="wuid:gx:67f6b24c02777498" class="sites-navigation-link">Conditions</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/arg-creating-new-races" jotId="wuid:gx:5ad220c3957567cf" class="sites-navigation-link">Creating New Races</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/duels" jotId="wuid:gx:478b1cf1aea27813" class="sites-navigation-link">Duels</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/environment" jotId="wuid:gx:7d5f7d0d7ea564cf" class="sites-navigation-link">Environment</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/exploration-movement" jotId="wuid:gx:52b4490d9ecaed7b" class="sites-navigation-link">Exploration &amp; Movement</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/hero-points" jotId="wuid:gx:5d00237441163436" class="sites-navigation-link">Hero Points</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/haunts" jotId="wuid:gx:34d6575622b10688" class="sites-navigation-link">Haunts</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/performance-combat" jotId="wuid:gx:7c99711207facbeb" class="sites-navigation-link">Performance Combat</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/quick-reference" jotId="wuid:gx:7426faaa106f98e5" class="sites-navigation-link">Quick Reference</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/random-charts" jotId="wuid:gx:319ead8d6d111a8f" class="sites-navigation-link">Random Charts</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/settlements" jotId="wuid:gx:30497f76348439d" class="sites-navigation-link">Settlements</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/ship-combat" jotId="wuid:gx:117c9d5c75d96280" class="sites-navigation-link">Ship Combat</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/siege-engines" jotId="wuid:gx:6761d8dec91eb566" class="sites-navigation-link">Siege Engines</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/special-abilities" jotId="wuid:gx:50d2e1166c833e3c" class="sites-navigation-link">Special Abilities</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/traps-hazards-and-special-terrains" jotId="wuid:gx:2e1f549fcd91ccfb" class="sites-navigation-link">Traps, Hazards &amp; Special Terrains</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/variant-rules" jotId="wuid:gx:6eb8d28ecffc7f4b" class="sites-navigation-link">Variant Rules</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/vehicles" jotId="wuid:gx:19791273ef006dae" class="sites-navigation-link">Vehicles</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gamemastering/vision-and-light" jotId="wuid:gx:3dad3ac3914ff8b4" class="sites-navigation-link">Vision and Light</a>
+</div></li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:241e5cc6f5b29839"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/bestiary" jotId="wuid:gx:241e5cc6f5b29839" class="sites-navigation-link topLevel">Bestiary</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="https://sites.google.com/site/pathfinderogc/bestiary/-bestiary-by-challenge-rating" class="sites-navigation-link">Monsters by CR</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="https://sites.google.com/site/pathfinderogc/bestiary/-bestiary-by-terrain" class="sites-navigation-link">Monsters by Terrain</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="https://sites.google.com/site/pathfinderogc/bestiary/monster-listings" class="sites-navigation-link">Monsters by Type</a>
+</div></li>
+<li class="parent closed" wuid="gx:43101e7c91ed5044"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/bestiary/npc-s" jotId="wuid:gx:43101e7c91ed5044" class="sites-navigation-link">NPCs</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/bestiary/npc-s/npc-db" jotId="wuid:gx:3c701daf6e1f7faf" class="sites-navigation-link">NPC DB</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/bestiary/unique-monsters" jotId="wuid:gx:221f15d9dd3c3858" class="sites-navigation-link">Unique Monsters</a>
+</div></li>
+<li class="parent closed" wuid="gx:7d6d9cd7d8acad03"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/bestiary/monster-listings/templates" jotId="wuid:gx:7d6d9cd7d8acad03" class="sites-navigation-link">Templates</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/bestiary/indexes-and-tables/templates-by-cr-adjustment" jotId="wuid:gx:51f1db4ac38c25cc" class="sites-navigation-link">Templates by CR Adjustment</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/bestiary/monster-filter" jotId="wuid:gx:637f09bc6f373c9a" class="sites-navigation-link">Monsters DB</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/bestiary/fan-conversions/paizo-adventure-paths" jotId="wuid:gx:623981f959a1de5e" class="sites-navigation-link">Paizo Modules</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/bestiary/rules-for-monsters/creature-types" jotId="wuid:gx:163e3a0397736b9" class="sites-navigation-link">Creature Types &amp; Subtypes</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/bestiary/monster-advancer" jotId="wuid:gx:7b11b4d7c82098b9" class="sites-navigation-link">Monster Builder</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/bestiary/random-encounter-generators" jotId="wuid:gx:2abf0791e1dce96e" class="sites-navigation-link">Random Encounter Generators</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/bestiary/rules-for-monsters/universal-monster-rules" jotId="wuid:gx:e80d155b4fdff40" class="sites-navigation-link">Universal Monster Rules</a>
+</div></li>
+</ul>
+</li>
+<li class="topLevel parent" wuid="gx:5b2042eb50319f24"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/extras" jotId="wuid:gx:5b2042eb50319f24" class="sites-navigation-link topLevel">Extras</a>
+</div><ul>
+<li class="parent closed" wuid="gx:301015063bcb8a47"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/extras/3rd-party-publishers" jotId="wuid:gx:301015063bcb8a47" class="sites-navigation-link">3rd Party Publishers</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/3rd-party-publishers/3pp-info" jotId="wuid:gx:6792ff6f09b36914" class="sites-navigation-link">3rd Party Publisher Information</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/3rd-party-publishers/4-winds-fantasy-gaming" jotId="wuid:gx:52e0eb176472c18d" class="sites-navigation-link">4 Winds Fantasy Gaming</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/3rd-party-publishers/byswarm" jotId="wuid:gx:261df3d462a791f7" class="sites-navigation-link">bySwarm</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/3rd-party-publishers/en-publishing" jotId="wuid:gx:5a648bd377eaacf" class="sites-navigation-link">EN Publishing</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/3rd-party-publishers/jon-brazer-enterprises" jotId="wuid:gx:3da3995a86422ab7" class="sites-navigation-link">Jon Brazer Enterprises</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/3rd-party-publishers/raging-swan" jotId="wuid:gx:5c1267bb4fe60223" class="sites-navigation-link">Raging Swan</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/3rd-party-publishers/rite-publishing" jotId="wuid:gx:4651f56791f8ca29" class="sites-navigation-link">Rite Publishing</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/3rd-party-publishers/spes-magna-games" jotId="wuid:gx:7f741bebde5cbe5e" class="sites-navigation-link">Spes Magna Games</a>
+</div></li>
+<li class="parent closed" wuid="gx:609a3d79de8a163d"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/extras/3rd-party-publishers/super-genius-games-the-genius-guide-to-ice-magic" jotId="wuid:gx:609a3d79de8a163d" class="sites-navigation-link">Super Genius Games</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/extras/3rd-party-publishers/super-genius-games-the-genius-guide-to-ice-magic/-spelltweets" jotId="wuid:gx:766323e39889e50a" class="sites-navigation-link">#SpellTweets</a>
+</div></li>
+</ul>
+</li>
+<li class="parent closed" wuid="gx:67017973882c021f"><div dir="ltr" style="padding-left: 38px;"><div class="expander"></div><a href="/extras/3rd-party-publishers/tpk-games" jotId="wuid:gx:67017973882c021f" class="sites-navigation-link">Total Party Kill Games</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 76px;"><a href="/extras/3rd-party-publishers/tpk-games/infamous-adversaries-raxath-viz-the-creeping-rot" jotId="wuid:gx:7ecb8c6d847d5cb3" class="sites-navigation-link">Infamous Adversaries: Raxath'Viz, the Creeping Rot</a>
+</div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/character-sheets" jotId="wuid:gx:6e0c50c078e86c4" class="sites-navigation-link">Character Sheets</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/collaborators" jotId="wuid:gx:2dc214e85d71688f" class="sites-navigation-link">Collaborators</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/consolidated-lists" jotId="wuid:gx:1f64f8e81cb2d27e" class="sites-navigation-link">Consolidated Lists</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/credits" jotId="wuid:gx:4637bb2896584784" class="sites-navigation-link">Credits</a>
+</div></li>
+<li class="parent closed" wuid="gx:56959a03fd3ac5c9"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/extras/community-creations" jotId="wuid:gx:56959a03fd3ac5c9" class="sites-navigation-link">Custom Creations</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/aetruis-lab" jotId="wuid:gx:3bcaca0a40f2b4ec" class="sites-navigation-link">Aetruis' Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/akadzjian-lab" jotId="wuid:gx:573f48e8aa87fc8b" class="sites-navigation-link">Akadzjian Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/american-bully-s-lab" jotId="wuid:gx:25767ec70478b337" class="sites-navigation-link">American Bully's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/aranian-s-lab" jotId="wuid:gx:236dab41bfc66f67" class="sites-navigation-link">Aranian's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/arazyrs-lab" jotId="wuid:gx:458342c16a00deea" class="sites-navigation-link">Arazyr's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/epic-meepo-presents/archetypes-by-epic-meepo" jotId="wuid:gx:4bc09d3752a2fcc8" class="sites-navigation-link">Archetypes</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/avotas-lab" jotId="wuid:gx:265d608285bf4538" class="sites-navigation-link">Avotas' Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/richard-s-lab" jotId="wuid:gx:65afd66649a43448" class="sites-navigation-link">AWizardInDallas's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/beckett-s-lab" jotId="wuid:gx:4f205d4ed7933687" class="sites-navigation-link">Beckett's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/blackstorm-labs" jotId="wuid:gx:4dde13563dcad17a" class="sites-navigation-link">Blackstorm Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/blademaster0182-s-lab" jotId="wuid:gx:3671feefca4e83e5" class="sites-navigation-link">BladeMaster0182's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/Bodhis-Lab" jotId="wuid:gx:1926fbfc7c0f46b8" class="sites-navigation-link">Bodhi's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/broven-s-lab" jotId="wuid:gx:3da1f2dbd7daf555" class="sites-navigation-link">Broven's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/brreitz-s-lab" jotId="wuid:gx:1387fa9dc40b15c4" class="sites-navigation-link">Brreitz's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/cartmanbeck-s-lab" jotId="wuid:gx:23cc9c96069d0a63" class="sites-navigation-link">Cartmanbeck's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/cawright-s-lab" jotId="wuid:gx:4e0b67d3f4772728" class="sites-navigation-link">CAWright's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/chopswils-lab" jotId="wuid:gx:46c35ab6f51f5c1" class="sites-navigation-link">Chopswil's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/concerro-s-lab-of-npc-s" jotId="wuid:gx:184cb5b0d22ea0ce" class="sites-navigation-link">Concerro's Lab of NPC's</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/cryptic-s-lab" jotId="wuid:gx:53640f9186cb3faf" class="sites-navigation-link">Cryptic's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/cthos-s-lab" jotId="wuid:gx:68753b47df12f338" class="sites-navigation-link">Cthos's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/cuzinlox-s-lab" jotId="wuid:gx:2f8c2158f8a310e1" class="sites-navigation-link">Cuzinlox's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/d20-the-flipside" jotId="wuid:gx:7f7704068f174425" class="sites-navigation-link">D20: The Flip Side</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/denny-s-lab" jotId="wuid:gx:2f242eac1a373f53" class="sites-navigation-link">Denny's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/disquisitions-lab" jotId="wuid:gx:41384d1ddeb60da3" class="sites-navigation-link">Disquisition's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/dougs-lab" jotId="wuid:gx:1d2b45acb1c2aa86" class="sites-navigation-link">Doug's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/duckfin-s-lab" jotId="wuid:gx:2d82c429f09c5b0f" class="sites-navigation-link">Duckfin's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/entropicinertia-s-lab-1" jotId="wuid:gx:5a001ff1e0321cd9" class="sites-navigation-link">EntropicInertia's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/epic-meepo-presents" jotId="wuid:gx:41e4c3a4f711775f" class="sites-navigation-link">Epic Meepo Presents</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/etchers-lab" jotId="wuid:gx:50e2fd810915d3f7" class="sites-navigation-link">Etchers Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/faramundo-s-lab" jotId="wuid:gx:5a9325b893206d6e" class="sites-navigation-link">Faramundo's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/flamingadversary-s-lab" jotId="wuid:gx:5570735fc094214c" class="sites-navigation-link">FlamingAdversary's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/flashblade-s-lab" jotId="wuid:gx:32e5c8acb6bc879e" class="sites-navigation-link">Flashblade's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/gil-s-lab" jotId="wuid:gx:7e26fed2895fc7ff" class="sites-navigation-link">Gil's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/gordonthewhale-s-lab" jotId="wuid:gx:16532401ba3923e" class="sites-navigation-link">Gordonthewhale's lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/greaterthantwo-s-lab" jotId="wuid:gx:8cd167102e3e115" class="sites-navigation-link">GreaterThanTwo's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/gustavo-s-lab" jotId="wuid:gx:196f6d3e42bbaaf3" class="sites-navigation-link">Gustavo's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/hexcaliber-s-creations" jotId="wuid:gx:627892a9b7b4649" class="sites-navigation-link">Hexcaliber's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/hubert-s-lab" jotId="wuid:gx:3cb320ae9b783d0f" class="sites-navigation-link">Hubert's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/jack-cameron-s-lab" jotId="wuid:gx:72d9a097618e894e" class="sites-navigation-link">Jack Cameron's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/jengenritzlab" jotId="wuid:gx:328cd9649041b3b9" class="sites-navigation-link">JengenritzLab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/house-rules" jotId="wuid:gx:7295a67b9ea410c6" class="sites-navigation-link">Jreyst's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/ktswordfish-s-lab" jotId="wuid:gx:26cd105dd4aa2837" class="sites-navigation-link">ktswordfish's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/leopoldslab" jotId="wuid:gx:145b2bc3dbca2f52" class="sites-navigation-link">LeopoldsLab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/mad-brew-s-lab" jotId="wuid:gx:3d57a93f91ff50e3" class="sites-navigation-link">Mad Brew's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/momentums-lab" jotId="wuid:gx:1086dff82d35503f" class="sites-navigation-link">Momentum's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/murk-s-lab" jotId="wuid:gx:1dcc5d55b2c8e2d5" class="sites-navigation-link">Murk's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/myte-s-lab" jotId="wuid:gx:23c3e202507672bd" class="sites-navigation-link">Myte's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/ogreslab" jotId="wuid:gx:11be704158d9926b" class="sites-navigation-link">Ogre's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/overfiend_87-s-lab" jotId="wuid:gx:3de4c774e4245790" class="sites-navigation-link">Overfiend_87's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/panakos-lab" jotId="wuid:gx:eb8c8638ac8e356" class="sites-navigation-link">Panakos Campaign Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/pel-s-lab" jotId="wuid:gx:2a4055cce34f96a" class="sites-navigation-link">Pel's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/prosfilaes-s-lab" jotId="wuid:gx:4d49f464061ee56c" class="sites-navigation-link">Prosfilaes's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/rogue-eidolon-s-lab" jotId="wuid:gx:6e5620dc4cff908e" class="sites-navigation-link">Rogue Eidolon's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/roj-s-lab" jotId="wuid:gx:a5580882b30f823" class="sites-navigation-link">RoJ's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/roninkelt-s-lab" jotId="wuid:gx:160e0259f48626ad" class="sites-navigation-link">RoninKelt's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/santiago-mendez-s-lab" jotId="wuid:gx:131ce1aac0242b31" class="sites-navigation-link">Santiago Mendez's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/seanfitz-s-lab" jotId="wuid:gx:2abc92e253e4e58d" class="sites-navigation-link">SeanFitz's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/shoelessinsights-lab" jotId="wuid:gx:6d66468d5a6a0998" class="sites-navigation-link">Shoelessinsight's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/solar-granulation-s-lab" jotId="wuid:gx:25f49bd87d9f46c9" class="sites-navigation-link">Solar Granulation's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/sorcerer-aid-project-sigils-and-talents" jotId="wuid:gx:120edd2fc28471c7" class="sites-navigation-link">Sorcerer Aid Project: Sigils and Talents</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/sowhereaminow-s-lab" jotId="wuid:gx:378f0f4527ea9d74" class="sites-navigation-link">sowhereaminow's lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/spesmagna" jotId="wuid:gx:32e6198b091df98d" class="sites-navigation-link">SpesMagna's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/spindlethin-s-lab" jotId="wuid:gx:3aa3c555d7444fa1" class="sites-navigation-link">Spindlethin's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/thom-s-lab" jotId="wuid:gx:211682dc6b801aad" class="sites-navigation-link">Thom's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/toddy-s-worksh" jotId="wuid:gx:7220ef61ff121328" class="sites-navigation-link">Toddy's Workshop</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/treatmonks-lab" jotId="wuid:gx:6ea04c38bb83b31c" class="sites-navigation-link">Treantmonk's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/vertexvortex-lab" jotId="wuid:gx:6ad4334a9dbc558c" class="sites-navigation-link">vertexvortex's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/viktyr-l-korimir-s-house-rules-lab" jotId="wuid:gx:6954a28b4406314" class="sites-navigation-link">Viktyr L. Korimir's House Rules</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/vip-s-lab" jotId="wuid:gx:6ebb07da0009e694" class="sites-navigation-link">Vip's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/-walter-s-lab" jotId="wuid:gx:14e50825820fe99a" class="sites-navigation-link">Walter's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/willaim-s-lab" jotId="wuid:gx:7cf931d80ba921eb" class="sites-navigation-link">Willaim's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/winter_soldier-s-lab" jotId="wuid:gx:1cb519b0bb6800e2" class="sites-navigation-link">Winter_Soldier's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/wonkos-lab" jotId="wuid:gx:3582be0d5ce65adc" class="sites-navigation-link">Wonko's Lab</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/zerzix-s-torture-chamber" jotId="wuid:gx:4aa5b05387a76e45" class="sites-navigation-link">Zerzix's Torture Chamber</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/community-creations/zyndell-s-lab" jotId="wuid:gx:21e0cdba96fe2e21" class="sites-navigation-link">Zyndell's Lab</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/dice-roller" jotId="wuid:gx:6d25d0640f5cfa65" class="sites-navigation-link">Dice Roller</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/downloads" jotId="wuid:gx:3f3fde9fbbc7aeca" class="sites-navigation-link">Downloads</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/dungeon-index" jotId="wuid:gx:5353c0de6bf7852d" class="sites-navigation-link">Dungeon Index</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://mycroft.mozdev.org/search-engines.html?name=pathfinder" class="sites-navigation-link">Firefox Search Plugin</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/community-creations/hero-lab" jotId="wuid:gx:5456b151d36fa568" class="sites-navigation-link">Hero Lab Community Repository</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/my-pathfinder-campaign" jotId="wuid:gx:11c73a24933153b5" class="sites-navigation-link">My Pathfinder Campaign</a>
+</div></li>
+<li class="parent closed" wuid="gx:1f90505992bb857a"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/extras/news" jotId="wuid:gx:1f90505992bb857a" class="sites-navigation-link">News</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/extras/monster-news" jotId="wuid:gx:390c6c7a959ae30f" class="sites-navigation-link">Monster News</a>
+</div></li>
+</ul>
+</li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/open-review" jotId="wuid:gx:718ca4d22353f2da" class="sites-navigation-link">Open Review</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/pathfinder-compatible-modules-and-adventures" jotId="wuid:gx:70a1486da98bbd39" class="sites-navigation-link">Pathfinder Compatible Modules and Adventures</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/pathfinder-faq" jotId="wuid:gx:5593125d0318b1b7" class="sites-navigation-link">Pathfinder FAQ</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/pathfinder-society-quick-start-characters" jotId="wuid:gx:4e0c9c91df689a1b" class="sites-navigation-link">Pathfinder Society Resources</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/playtests" jotId="wuid:gx:52d7be21036eee2f" class="sites-navigation-link">Playtests</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/extras/random-treasure-generator" jotId="wuid:gx:e9a0b277016df4e" class="sites-navigation-link">Random Treasure Generator</a>
+</div></li>
+</ul>
+</li>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="/extras/get-involved" jotId="wuid:gx:26f86fefa5139cba" class="sites-navigation-link topLevel">Get Involved!</a>
+</div></li>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="/extras/community-use" jotId="wuid:gx:2517039f413fd784" class="sites-navigation-link topLevel">Community Use / OGL</a>
+</div></li>
+</ul>
+</div>
+</div>
+<property xmlns="http://www.w3.org/1999/xhtml" name="chrome" type="element">
+<div id="COMP_83823104793304" class="sites-embed">
+<div class="sites-embed-content-notitle">
+<span jotId="content">
+<p>
+<script type="text/javascript"><!--
+google_ad_client="pub-8646111290283331";
+google_ad_host="pub-6693688277674466";
+google_ad_width=120;
+google_ad_height=600;
+google_ad_format="120x600_as";
+google_ad_type="text_image";
+google_color_border="FFFFFF";
+google_color_bg="FFFFFF";
+google_color_link="000000";
+google_color_url="003965";
+google_color_text="5E6A72";
+//--></script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+</span>
+</div>
+</div>
+</property>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_8010538275464829" class="sites-embed" style="width:">
+<h4 class="sites-embed-title"></h4>
+<div class="sites-embed-content" style="padding:5px;">
+<div dir="ltr"><div style="width:170px;margin:0px auto" title="Book of Beasts Monsters of the Shadow Plane from Jon Brazer Enterprises.">
+<a href="http://paizo.com/products/btpy8qri?Book-of-Beasts-Monsters-of-the-Shadow-Plane" target="_blank">
+<img border="0" src="http://www.d20pfsrd.com/_/rsrc/1333398754763/config/BoB-Tower-Ad.jpg" />
+</a>
+</div></div>
+</div>
+</div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2133900107485056" class="sites-embed" style="width:">
+<h4 class="sites-embed-title"></h4>
+<div class="sites-embed-content" style="padding:5px;">
+<div dir="ltr"><div style="margin:5px auto;width:90px;text-align:center" title="Mutants and Masterminds 3E SRD">
+<a href="http://www.d20herosrd.com" style="text-decoration:none" target="_blank">
+<img border="0" src="http://www.d20pfsrd.com/_/rsrc/1323886761354/config/d20herosrd-button.png" style="margin:5px 0px" />
+</a></div>
+<div style="width:160px;margin:5px auto" title="Play a Superhero! Check out www.d20herosrd.com!">
+<a href="http://www.d20herosrd.com/" target="_blank">
+<img border="0" src="http://www.d20pfsrd.com/_/rsrc/1338473787943/config/SiroccoLoRes.jpg" style="width:160px;height:112px" />
+</a>
+</div></div>
+</div>
+</div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_7954131287414689" class="sites-embed" style="width:">
+<h4 class="sites-embed-title"></h4>
+<div class="sites-embed-content" style="padding:5px;">
+<div dir="ltr"><div style="width:170px;margin:0px auto" title="Ever wanted to play a god?">
+<a href="http://paizo.com/products/btpy8pqo?The-Complete-Godling-Bundle" target="_blank">
+<img border="0" src="http://www.d20pfsrd.com/_/rsrc/1341285199795/config/Godling-Skyscraper.jpg" />
+</a>
+</div></div>
+</div>
+</div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_8358796988241636" class="sites-sidebar-plusone-wrapper"><div class="g-plusone" data-count="true" data-size="standard" data-source="google:sites"></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_026317702721604497" class="sites-embed" style="width:">
+<h4 class="sites-embed-title">More Information</h4>
+<div class="sites-embed-content" style="padding:5px;">
+<div dir="ltr"><div style="text-align:left;font-size:12px;padding:1px"><a href="mailto:join@d20pfsrd.com" style="text-decoration:none" target="_blank">Join the Team</a></div>
+<div style="text-align:left;font-size:12px;padding:1px"><a href="mailto:d20pfsrd.com+problem@gmail.com" style="text-decoration:none" target="_blank">Report a Problem</a></div>
+<div style="text-align:left;font-size:12px;padding:1px"><a href="http://www.opengamingfoundation.org/ogl.html" style="text-decoration:none" target="_blank">OGL Information</a></div>
+<div style="text-align:left;font-size:12px;padding:1px"><a href="http://paizo.com/paizo/about/communityuse" style="text-decoration:none" target="_blank">Community Use Policy</a></div>
+<div style="text-align:left;font-size:12px;padding:1px"><a href="http://www.freeyabb.com/pathfindersrd/index.php?mforum=pathfindersrd" style="text-decoration:none" target="_blank">Messageboards</a>
+</div></div>
+</div>
+</div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_4924199266858188" class="sites-embed" style="width:">
+<h4 class="sites-embed-title"></h4>
+<div class="sites-embed-content" style="padding:5px;">
+<div dir="ltr"><div style="margin:5px auto;width:90px;text-align:center" title="Mutants and Masterminds 3E SRD">
+<a href="http://www.d20herosrd.com" style="text-decoration:none" target="_blank">
+<img border="0" src="http://www.d20pfsrd.com/_/rsrc/1323886761354/config/d20herosrd-button.png" style="margin:5px 0px" />
+</a></div>
+<div style="margin:10px auto;width:140px;text-align:center;font-size:12px" title="Mutants and Masterminds 3E SRD">
+<a href="http://www.d20herosrd.com" style="text-decoration:none" target="_blank">www.d20herosrd.com</a>
+</div>
+<div style="margin:5px auto;width:90px;text-align:center" title="d20 Modern + Pathfinder SRD">
+<a href="http://www.d20modernpf.com" style="text-decoration:none" target="_blank">
+<img border="0" src="http://www.d20pfsrd.com/_/rsrc/1323886776448/config/d20modernpf-button.png" style="margin:5px 0px" />
+</a></div>
+<div style="margin:10px auto 20px auto;width:140px;text-align:center;font-size:12px" title="d20 Modern + Pathfinder SRD">
+<a href="http://www.d20modernpf.com" style="text-decoration:none" target="_blank">www.d20modernpf.com</a>
+</div>
+<div style="margin:10px auto;width:140px;text-align:center">
+<a href="https://plus.google.com/u/0/b/117763060848309881955/117763060848309881955/posts" imageanchor="1" style="text-decoration:none" title="Circle us in Google+">
+<img border="0" src="http://www.d20pfsrd.com/_/rsrc/1320938279557/config/gplus-64.png" />
+<div style="font-size:12px;font-weight:bold;padding:5px">
+Circle<br />
+d20pfsrd.com<br />
+on Google+</div>
+</a>
+</div>
+<div style="margin:10px auto;width:140px;text-align:center;font-size:12px;font-weight:bold;padding:5px">
+<a href="https://www.facebook.com/groups/236693143070161/" imageanchor="1" style="text-decoration:none" title="Join the d20pfsrd.com Facebook Group">
+<img border="0" height="64" src="http://www.d20pfsrd.com/_/rsrc/1324599780733/config/d20pfsrd-logo-square.png" width="64" />
+<div>Join the<br />
+d20pfsrd.com<br />
+Facebook Group
+</div>
+</a></div></div>
+</div>
+</div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_46288563268338856" class="sites-embed" style="width:">
+<h4 class="sites-embed-title"></h4>
+<div class="sites-embed-content" style="padding:5px;">
+<div dir="ltr"><div style="text-align:center"><a href="?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F" target="_blank">Print This Page</a></div></div>
+</div>
+</div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+<A dir="ltr" href="/classes">Classes</A>‎ &gt; ‎<A dir="ltr" href="/classes/prestige-classes">Prestige Classes</A>‎ &gt; ‎<A dir="ltr" href="/classes/prestige-classes/core-rulebook">Core Rulebook</A>‎ &gt; ‎
+  </div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr">Duelist</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-layout-name-one-column-hf sites-layout-vbox"><div class="sites-layout-tile sites-tile-name-header"><div dir="ltr"><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:728px;"><div class="sites-embed-content sites-embed-type-adsense"><script type="text/javascript"><!--
+google_ad_client="pub-8646111290283331";
+google_ad_host="pub-6693688277674466";
+google_ad_width=728;
+google_ad_height=90;
+google_ad_format="728x90_as";
+google_ad_type="text_image";
+google_color_border="B0BDCC";
+google_color_bg="FFFFFF";
+google_color_link="000000";
+google_color_url="4E7DBF";
+google_color_text="000000";
+//--></script><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div></div></div></div></div><div class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="text-align:center;margin:10px;width:450px;float:right">
+<a href="http://www.d20pfsrd.com/extras/community-use/d20pfsrd-com-source-logos#TOC-Source-Pathfinder-RPG">
+<img border="0" src="http://www.d20pfsrd.com/_/rsrc/1306172943740/images/pf-rpg.png" title="This content was created for the Pathfinder rules by Paizo Publishing LLC and is part of the Pathfinder RPG product line." />
+</a>
+</div>
+<p style="font-size:16px">Duelists represent the pinnacle of elegant swordplay. They move with
+a grace unmatched by most foes, parrying blows and countering attacks
+with swift thrusts of their blades. They may wear armor, but generally
+eschew such bulky protection as their grace allows them to dodge their
+opponents with ease. While others flounder on treacherous terrain,
+duelists charge nimbly across the battlefield, leaping and tumbling
+into the fray. They thrive in melee, where their skill with the blade
+allows them to make sudden attacks against clumsy foes and to cripple
+opponents with particularly well-placed thrusts of the blade.</p>
+<p style="font-size:16px">The
+path to the duelist is natural for rogues and bards, as those classes
+do not rely on armor for defense, although nearly as many duelists come
+from the ranks of fighters and rangers. They are often found in those
+regions that possess elaborate rules and etiquette for battle. </p>
+<p style="font-size:16px"><b>Role</b>:
+The abilities of duelists complement those rogues or bards who wish to
+accentuate their fighting prowess but, because of their lack of heavy
+armor, are afraid to leap into combat. Duelists fight in the forefront
+alongside fighters, barbarians, and other melee combatants, deftly
+avoiding the blades of their opponents while expertly targeting their
+vulnerabilities.</p>
+<p style="font-size:16px"><b>Alignment</b>: Duelists can be of any
+alignment, although since most hail from backgrounds as rogues or
+bards, they tend to eschew lawful behavior. Lawful duelists are not
+unheard of, however, and such duelists often adhere to a strict code of
+honor, refusing to attack unarmed or obviously inferior opponents.</p>
+<p style="font-size:16px"><b>Hit Die</b>: d10.</p>
+<h2 style="color:rgb(7,55,99);font-size:20px"><a name="TOC-Requirements"></a>Requirements</h2>
+<p style="font-size:16px">To qualify to become a duelist, a character must fulfill all the following criteria.</p>
+<p style="font-size:16px;margin-left:40px"><i>Base Attack Bonus</i>: +6.</p>
+<p style="font-size:16px;margin-left:40px"><i>Skills</i>: <a href="http://www.d20pfsrd.com/skills/acrobatics">Acrobatics</a> 2 ranks, <a href="http://www.d20pfsrd.com/skills/perform">Perform</a> 2 ranks.</p>
+<p style="font-size:16px;margin-left:40px"><i>Feats</i>: <a href="http://www.d20pfsrd.com/feats/combat-feats/dodge-combat---final">Dodge</a>, <a href="http://www.d20pfsrd.com/feats/combat-feats/mobility-combat---final">Mobility</a>, <a href="http://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat---final">Weapon Finesse</a>.</p>
+<h2 style="color:rgb(7,55,99);font-size:20px"><a name="TOC-Class-Skills"></a>Class Skills</h2>
+<p style="font-size:16px">The duelist's class skills (and the key ability for each skill) are <a href="http://www.d20pfsrd.com/skills/acrobatics">Acrobatics</a> (<a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-">Dex</a>), <a href="http://www.d20pfsrd.com/skills/bluff">Bluff</a> (<a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-">Cha</a>), <a href="http://www.d20pfsrd.com/skills/escape-artist">Escape Artist</a> (<a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-">Dex</a>), <a href="http://www.d20pfsrd.com/skills/perception">Perception</a> (<a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-">Wis</a>), <a href="http://www.d20pfsrd.com/skills/perform">Perform</a> (<a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-">Cha</a>), and <a href="http://www.d20pfsrd.com/skills/sense-motive">Sense Motive</a> (<a href="https://sites.google.com/site/pathfind=">Wis</a>).</p>
+<p style="font-size:16px"><b> Skill Ranks at Each Level</b>: 4 + <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-">Int</a> modifier.</p>
+<h3 style="font-size:18px"><a name="TOC-Table:-Duelist"></a>Table: Duelist</h3>
+<table border="1" bordercolor="#888888" cellpadding="5" style="border-color:rgb(136,136,136);border-width:1px;border-collapse:collapse" width="100%">
+<tbody>
+<tr>
+<td style="background-color:rgb(207,226,243);text-align:center;font-size:16px;font-weight:bold;width:100px">Level</td>
+<td style="background-color:rgb(207,226,243);text-align:center;font-size:16px;font-weight:bold;width:100px">Base Attack Bonus</td>
+<td style="background-color:rgb(207,226,243);text-align:center;font-size:16px;font-weight:bold;width:100px">Fort Save</td>
+<td style="background-color:rgb(207,226,243);text-align:center;font-size:16px;font-weight:bold;width:100px">Ref Save</td>
+<td style="background-color:rgb(207,226,243);text-align:center;font-size:16px;font-weight:bold;width:100px">Will Save</td>
+<td style="background-color:rgb(207,226,243);text-align:left;font-size:16px;font-weight:bold">Special</td>
+</tr>
+<tr>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">1st</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+1</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+0</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+1</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+0</td>
+<td style="background-color:rgb(255,255,255);text-align:left;font-size:16px"><a href="#TOC-Canny-Defense-Ex-">Canny defense</a>, <a href="#TOC-Precise-Strike-Ex-">precise strike</a></td>
+</tr>
+<tr>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">2nd</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+2</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+1</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+1</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+1</td>
+<td style="background-color:rgb(243,243,243);text-align:left;font-size:16px"><a href="#TOC-Improved-Reaction-Ex-">Improved reaction</a> +2, <a href="#TOC-Parry-Ex-">parry</a></td>
+</tr>
+<tr>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">3rd</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+3</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+1</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+2</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+1</td>
+<td style="background-color:rgb(255,255,255);text-align:left;font-size:16px"><a href="#TOC-Enhanced-Mobility-Ex-">Enhanced mobility</a></td>
+</tr>
+<tr>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">4th</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+4</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+1</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+2</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+1</td>
+<td style="background-color:rgb(243,243,243);text-align:left;font-size:16px"><a href="#TOC-Combat-Reflexes">Combat Reflexes</a>, <a href="#TOC-Grace-Ex-">grace</a></td>
+</tr>
+<tr>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">5th</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+5</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+2</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+3</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+2</td>
+<td style="background-color:rgb(255,255,255);text-align:left;font-size:16px"><a href="#TOC-Riposte-Ex-">Riposte</a></td>
+</tr>
+<tr>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">6th</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+6</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+2</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+3</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+2</td>
+<td style="background-color:rgb(243,243,243);text-align:left;font-size:16px"><a href="#TOC-Acrobatic-Charge-Ex-">Acrobatic charge</a></td>
+</tr>
+<tr>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">7th</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+7</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+2</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+4</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+2</td>
+<td style="background-color:rgb(255,255,255);text-align:left;font-size:16px"><a href="#TOC-Elaborate-Defense-Ex-">Elaborate defense</a></td>
+</tr>
+<tr>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">8th</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+8</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+3</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+4</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+3</td>
+<td style="background-color:rgb(243,243,243);text-align:left;font-size:16px"><a href="#TOC-Improved-Reaction-Ex-">Improved reaction</a> +4</td>
+</tr>
+<tr>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">9th</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+9</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+3</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+5</td>
+<td style="background-color:rgb(255,255,255);text-align:center;font-size:16px">+3</td>
+<td style="background-color:rgb(255,255,255);text-align:left;font-size:16px"><a href="#TOC-Deflect-Arrows">Deflect arrows</a>, <a href="#TOC-No-Retreat-Ex-">no retreat</a></td>
+</tr>
+<tr>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">10th</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+10</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+3</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+5</td>
+<td style="background-color:rgb(243,243,243);text-align:center;font-size:16px">+3</td>
+<td style="background-color:rgb(243,243,243);text-align:left;font-size:16px"><a href="#TOC-Crippling-Critical-Ex-">Crippling critical</a></td>
+</tr>
+</tbody>
+</table>
+<h2 style="color:rgb(7,55,99);font-size:20px"><a name="TOC-Class-Features"></a>Class Features</h2>
+<p style="font-size:16px">All of the following are class features of the duelist prestige class.</p>
+<h4 style="font-size:16px"><a name="TOC-Weapon-and-Armor-Proficiency"></a>Weapon and Armor Proficiency</h4>
+<p style="font-size:16px">The duelist is proficient with all simple and martial weapons. Duelists are proficient with light armor but not with shields.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Canny-Defense-Ex-"></a>Canny Defense (Ex)</h4>
+<p style="font-size:16px">When wearing light or no armor and not using a shield, a duelist adds 1 point of <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-">Intelligence</a> bonus (if any) per duelist class level to her <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-">Dexterity</a> bonus to modify <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class" rel="nofollow">Armor Class</a> while wielding a melee weapon. If a duelist is caught <a href="http://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed" rel="nofollow">flat-footed</a> or otherwise denied her <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-">Dexterity</a> bonus, she also loses this bonus.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Precise-Strike-Ex-"></a>Precise Strike (Ex)</h4>
+<div class="sites-embed-align-right-wrapping-on"><div class="sites-embed-border-on sites-embed" style="width:256px;"><h4 class="sites-embed-title">Note!</h4><div class="sites-embed-content sites-embed-type-text"><div class="sites-embed-content-textbox"><div dir="ltr">For     many of the class features of the duelist, a requirement is to be   using  a  light or one-handed piercing weapon.  This must   also be  a  melee weapon; a duelist cannot use such class abilities   with a   ranged-only weapon or thrown-only     weapon.<br /></div></div></div></div></div>
+<p style="font-size:16px">A duelist gains the ability to strike precisely with a light or
+one-handed piercing weapon, adding her duelist level to her damage roll.</p>
+<p style="font-size:16px">When
+making a precise strike, a duelist cannot attack with a weapon in her
+other hand or use a shield. A duelist's precise strike only works
+against living creatures with discernible anatomies. Any creature that
+is immune to critical hits is also immune to a precise strike, and any item or ability that protects a creature from critical hits also protects a creature from a precise strike.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Improved-Reaction-Ex-"></a>Improved Reaction (Ex)</h4>
+<p style="font-size:16px">At 2nd level, a duelist gains a +2 bonus on <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Initiative" rel="nofollow">initiative</a> checks. At 8th
+level, the bonus increases to +4. This bonus stacks with the benefit
+provided by the <a href="http://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat---final">Improved Initiative</a> feat.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Parry-Ex-"></a>Parry (Ex)</h4>
+<p style="font-size:16px">At 2nd level, a duelist learns to parry the attacks of other creatures,
+causing them to miss. Whenever the duelist takes a <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Attack" rel="nofollow">full attack</a> action
+with a light or one-handed piercing weapon, she can elect not to take
+one of her attacks. At any time before her next turn, she can attempt
+to parry an attack against her or an adjacent ally as an immediate
+action. To parry the attack, the duelist makes an attack roll, using
+the same bonuses as the attack she chose to forego during her previous
+action. If her attack roll is greater than the roll of the attacking
+creature, the attack automatically misses. For each size category that
+the attacking creature is larger than the duelist, the duelist takes a
+–4 penalty on her attack roll. The duelist also takes a –4 penalty when
+attempting to parry an attack made against an adjacent ally. The
+duelist must declare the use of this ability after the attack is
+announced, but before the roll is made.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Enhanced-Mobility-Ex-"></a>Enhanced Mobility (Ex)</h4>
+<p style="font-size:16px">Starting at 3rd level, when wearing light or no armor and not using a shield, a duelist gains an additional +4 bonus to AC against <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity" rel="nofollow">attacks of opportunity</a> caused when she moves out of a threatened square.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Combat-Reflexes"></a>Combat Reflexes</h4>
+<p style="font-size:16px">At 4th level, a duelist gains the benefit of the <a href="http://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat">Combat Reflexes</a> feat when using a light or one-handed piercing weapon.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Grace-Ex-"></a>Grace (Ex)</h4>
+<p style="font-size:16px">At 4th level, a duelist gains an additional +2 competence bonus on all <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex" rel="nofollow">Reflex</a> saving throws. This ability functions for a duelist only when she is wearing light or no armor and not using a shield.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Riposte-Ex-"></a>Riposte (Ex)</h4>
+<p style="font-size:16px">Starting at 5th level, a duelist can make an <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity" rel="nofollow">attack of opportunity</a>
+against any creature whose attack she successfully parries, so long as
+the creature she is attacking is within reach.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Acrobatic-Charge-Ex-"></a>Acrobatic Charge (Ex)</h4>
+<p style="font-size:16px">At 6th level, a duelist gains the ability to charge in situations where
+others cannot. She may charge over difficult terrain that normally
+slows movement. Depending on the circumstance, she may still need to
+make appropriate checks to successfully move over the terrain.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Elaborate-Defense-Ex-"></a>Elaborate Defense (Ex)</h4>
+<p style="font-size:16px">At 7th level and higher, if a duelist chooses to fight defensively or
+use total defense in melee combat, she gains an additional +1 dodge bonus to AC for every 3 levels of duelist she has attained.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Deflect-Arrows"></a>Deflect Arrows</h4>
+<p style="font-size:16px">At 9th level, a duelist gains the benefit of the <a href="http://www.d20pfsrd.com/feats/combat-feats/deflect-arrows-combat">Deflect Arrows</a> feat when using a light or one-handed piercing weapon. The duelist does not need a free hand to use this feat.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-No-Retreat-Ex-"></a>No Retreat (Ex)</h4>
+<p style="font-size:16px">At 9th level, enemies adjacent to the duelist that take a withdraw action provoke an <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity" rel="nofollow">attack of opportunity</a> from the duelist.</p>
+<h4 style="background-color:rgb(207,226,243);font-size:16px"><a name="TOC-Crippling-Critical-Ex-"></a>Crippling Critical (Ex)</h4>
+<p style="font-size:16px">When you confirm a critical hit
+using a light or one-handed piercing weapon, you can apply one of the
+following penalties in addition to the damage dealt: reduce all of the
+target's speeds by 10 feet (minimum 5 feet), 1d4 points of <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-">Strength</a> or <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-">Dexterity</a> damage, –4 penalty on all saving throws, –4 penalty to <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class" rel="nofollow">Armor Class</a>,
+or 2d6 points of <a href="http://www.d20pfsrd.com/gamemastering/conditions#TOC-Bleed" rel="nofollow">bleed</a> damage. These penalties last for 1 minute,
+except for ability damage, which must be healed normally, and <a href="http://www.d20pfsrd.com/gamemastering/conditions#TOC-Bleed" rel="nofollow">bleed</a>
+damage, which continues until the target receives magic healing or a DC
+15 <a href="http://www.d20pfsrd.com/skills/heal">Heal</a> skill check.</p></div></div><div class="sites-layout-tile sites-tile-name-footer"><div dir="ltr"><div style="border-style:solid;border-width:thin;border-color:rgb(153,153,153);margin-top:10px">
+<div style="background-color:rgb(243,243,243);padding:5px;font-weight:bolder;font-size:14px">Section 15: Copyright Notice</div>
+<div style="padding:10px;font-size:12px;font-style:italic">
+<p><a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank">Pathfinder RPG Core Rulebook</a>. Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.</p>
+</div>
+</div></div></div></div>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-subfooter"><div class="sites-subfooter-content"><html xmlns:jot="http://www.google.com/ns/jotspot/srvtmpl/"><div dir="ltr"><div style="width:100%">
+<div style="width:1103px;padding:5px;background-color:rgb(255,255,255);border-style:solid;border-width:thin;border-color:rgb(153,153,153);margin:5px auto">
+<table width="100%">
+<tbody>
+<tr>
+<td align="center" style="text-align:center;vertical-align:middle;width:728px">
+<div style="width:728px;padding:5px;border-style:solid;border-width:thin;border-color:rgb(153,153,153);margin:5px auto">
+<a href="http://www.wolflair.com/index.php?context=hero_lab&amp;page=buy_hero_lab" target="_blank" title="Character creation software has finally leveled up!">
+<img border="0" src="https://sites.google.com/site/pathfinderogc/_/rsrc/1328112429738/config/Leaderboards-728x90v1b-add.png" />
+</a>
+</div>
+</td>
+<td align="center" style="text-align:center;vertical-align:middle;width:125px">
+<div style="width:125px;margin:auto;padding-left:20px" title="Join the d20pfsrd.com Facebook Group!">
+<a href="https://www.facebook.com/groups/236693143070161/" rel="nofollow" target="_blank">
+<img border="0" src="https://sites.google.com/site/pathfinderogc/_/rsrc/1326171342009/home/Join-Facebook-group.gif" />
+</a>
+</div>
+</td>
+<td align="center" style="text-align:center;vertical-align:middle;width:125px">
+<div style="width:90px;margin:auto;padding-left:20px;padding-right:10px" title="HOLY CRAP A MUTANTS AND MASTERMINDS SRD SITE! NO WAY!">
+<a href="http://www.d20herosrd.com" rel="nofollow" target="_blank">
+<img border="0" src="https://sites.google.com/site/pathfinderogc/_/rsrc/1323832810632/home/d20herosrd-button.png" />
+</a>
+</div>
+</td>
+<td align="center" style="text-align:center;vertical-align:middle;width:125px">
+<div style="width:66px;margin:auto;padding:0px" title="d20 Modern for Pathfinder!">
+<a href="http://www.d20modernpf.com" rel="nofollow" target="_blank">
+<img border="0" src="https://sites.google.com/site/pathfinderogc/_/rsrc/1323833546274/home/d20modernpf-button.png" />
+</a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></div></html></div></div>
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter"><p><a class="sites-system-link" href="https://www.google.com/a/UniversalLogin?service=jotspot&amp;continue=http://sites.google.com/site/pathfinderogc/classes/prestige-classes/core-rulebook/duelist">Sign in</a>|<a class="sites-system-link" href="/system/app/pages/reportAbuse" target="_blank">Report Abuse</a>|<a class="sites-system-link" href="/system/app/pages/removeAccess" target="_blank">Remove Access</a>|<span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-onebar-footer">
+</div>
+
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="http://www.gstatic.com/sites/p/385ab0/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+          var searchBox = new sites.Searchbox('sites-searchbox-select-button',
+              false);
+          searchBox.initListeners([{"id":"search-site","action":"/system/app/pages/search","label":"Search this site"},{"id":"cse-goog_724943522","action":"/system/app/pages/customSearch","label":"Pathfinder Wiki"},{"id":"cse-goog_2141708271","action":"/system/app/pages/customSearch","label":"Search"},{"id":"cse-goog_47995348","action":"/system/app/pages/customSearch","label":"Paizo"}], true, 'cse-goog_2141708271',
+              false);
+        </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("8011023314269897", "Main Menu", false);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_8011023314269897');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([]);
+    gsites.Xhr.send('http://www.d20pfsrd.com/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type;
+                      window.jstiming.report(loadTimer, {}, 'http://csi.gstatic.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+ //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+
+<script type="text/javascript">
+              sites.util.Plus.go('sites-chrome-main');
+            </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script>
+          window.jstiming.load.tick('render');
+        </script>
+</body>
+</html>

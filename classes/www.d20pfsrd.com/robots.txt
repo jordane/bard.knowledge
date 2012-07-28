@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /feeds
+Disallow: /*/_/
+Sitemap: http://www.d20pfsrd.com:80/system/feeds/sitemap
