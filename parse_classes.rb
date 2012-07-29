@@ -5,9 +5,12 @@ require 'json'
 #require 'sinatra'
 #require '/var/lib/gems/1.8/gems/sinatra-cross_origin-0.2.0/lib/sinatra/cross_origin'
 
-SPELL_CASTERS=['bard', 'cleric', 'druid', 'sorcerer', 'wizard', 'ranger', 'paladin']
-TEN_LEVEL_SPELLS=['cleric', 'druid', 'wizard', 'sorcerer']
-SEVEN_LEVEL_SPELLS=['bard', 'ranger', 'paladin']
+TEN_LEVEL_SPELLS=['cleric', 'druid', 'wizard', 'oracle', 'witch']
+SEVEN_LEVEL_SPELLS=[ 'magus']
+SIX_LEVEL_SPELLS=['alchemist', 'summoner', 'inquisitor', 'bard']
+FOUR_LEVEL_SPELLS=['antipaladin', 'paladin', 'ranger']
+NINE_LEVEL_SPELLS=['oracle', 'sorcerer']
+SPELL_CASTERS= TEN_LEVEL_SPELLS + SEVEN_LEVEL_SPELLS + SIX_LEVEL_SPELLS + NINE_LEVEL_SPELLS + FOUR_LEVEL_SPELLS
 STATS=['Wis', 'Dex', 'Str', 'Con', 'Cha', 'Int']
 BAB = 1
 FORT = 2
@@ -32,6 +35,31 @@ name.delete!(')')
 name.gsub(' ', '-')
 end
 
+def parse_skills(pf_class)
+  class_number = 0
+  class_skills = []
+  html = Nokogiri::HTML(File.open('skills'))
+  tables = html.css('table')
+  skills_table = tables[3]
+  rows = skills_table.css('tbody tr')
+  1.step(rows[0].css('td').length).to_a.each do |number|
+    if defined?(rows[0].css('td')[number].get_attribute('title').downcase)
+      if rows[0].css('td')[number].get_attribute('title').downcase == pf_class
+        class_number = number
+        break
+      end
+    end
+  end
+  rows[1..rows.css('td').length].each do |row|
+    if defined?(row.css('td')[class_number].text)
+      if row.css('td')[class_number].text == 'C'
+        class_skills.push(slugify(row.css('td')[0].text.downcase))
+      end
+    end
+  end
+  return class_skills
+end
+
 def parse_stats (stat,file)
   bab = []
   html = Nokogiri::HTML(File.open(file))
@@ -45,7 +73,11 @@ def parse_stats (stat,file)
           if not stat == SPECIAL
             bab.push(values[stat].text().scan(/\d+/)[0] ? values[stat].text().scan(/\d+/)[0] : '0')
           else
-            bab.push(values[stat].text().split(', '))
+            if values[stat].text().strip == "\303\202\302\240"
+              bab.push([""])
+            else
+              bab.push(values[stat].text().strip.split(', ') ? values[stat].text().split(', ') : '')
+            end
           end
         end
       else
@@ -54,7 +86,11 @@ def parse_stats (stat,file)
           if not stat == SPECIAL
             bab.push(values[stat].text().scan(/\d+/)[0] ? values[stat].text().scan(/\d+/)[0] : '0')
           else
-            bab.push(values[stat].text().split(', '))
+            if values[stat].text().strip == "\303\202\302\240"
+              bab.push([""])
+            else
+              bab.push(values[stat].text().strip.split(', ') ? values[stat].text().split(', ') : '')
+            end
           end
         end
       end
@@ -67,7 +103,11 @@ def parse_stats (stat,file)
           if not stat == SPECIAL
             bab.push(values[stat].text().scan(/\d+/)[0] ? values[stat].text().scan(/\d+/)[0] : '0')
           else
-            bab.push(values[stat].text().split(', '))
+            if values[stat].text().strip == "\303\202\302\240"
+              bab.push([""])
+            else
+              bab.push(values[stat].text().strip.split(', ') ? values[stat].text().split(', ') : '')
+            end
           end
         end
       end
@@ -78,7 +118,11 @@ def parse_stats (stat,file)
           if not stat == SPECIAL
             bab.push(values[stat].text().scan(/\d+/)[0] ? values[stat].text().scan(/\d+/)[0] : '0')
           else
-            bab.push(values[stat].text().split(', '))
+            if values[stat].text().strip == "\303\202\302\240"
+              bab.push([""])
+            else
+              bab.push(values[stat].text().strip.split(', ') ? values[stat].text().split(', ') : '')
+            end
           end
         end
       end
@@ -88,11 +132,30 @@ def parse_stats (stat,file)
 end
 
 def parse_class (pf_class)
-  file = '/home/jordane/git/bard.knowledge/classes/www.d20pfsrd.com/classes/core-classes/' + pf_class
+  if CORE_CLASSES.include?(pf_class)
+    dir = '/home/jordane/git/bard.knowledge/classes/www.d20pfsrd.com/classes/core-classes/'
+  elsif BASE_CLASSES.include?(pf_class)
+    dir = '/home/jordane/git/bard.knowledge/classes/www.d20pfsrd.com/classes/base-classes/'
+  elsif ALT_CLASSES.include?(pf_class)
+    dir = '/home/jordane/git/bard.knowledge/classes/www.d20pfsrd.com/classes/alternate-classes/'
+  end
+  file = dir + pf_class
   stats = {}
   spells = {}
   special = {}
-  if SPELL_CASTERS.include?(pf_class)
+  if SIX_LEVEL_SPELLS.include?(pf_class)
+    SPELLS[1..5].each do |spell|
+      spells[(spell - 6).to_s] = parse_stats(spell - 1, file)
+  end
+  elsif NINE_LEVEL_SPELLS.include?(pf_class)
+    SPELLS[1..9].each do |spell|
+      spells[(spell - 6).to_s] = parse_stats(spell - 1, file)
+  end
+  elsif FOUR_LEVEL_SPELLS.include?(pf_class)
+    SPELLS[1..4].each do |spell|
+      spells[(spell -6).to_s] = parse_stats(spell-1, file)
+  end
+  elsif SPELL_CASTERS.include?(pf_class)
     if TEN_LEVEL_SPELLS.include?(pf_class)
       SPELLS.each do |spell|
         spells[(spell - 6).to_s] = parse_stats(spell, file)
@@ -108,8 +171,9 @@ def parse_class (pf_class)
   end
   special = parse_stats(SPECIAL, file)
   stats[:spells] = spells
+  stats[:skills] = parse_skills(pf_class)
   stats[:special] = special
-  pf_class_stats = { :stats => stats, :name => pf_class,}
+  pf_class_stats = { :stats => stats, :name => pf_class, :display_name => pf_class.capitalize}
   return pf_class_stats
 end
 

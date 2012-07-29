@@ -7,7 +7,10 @@ require '/var/lib/gems/1.8/gems/sinatra-cross_origin-0.2.0/lib/sinatra/cross_ori
 require '/home/jordane/git/bard.knowledge/parse_classes.rb'
 
 STATS=['Wis', 'Dex', 'Str', 'Con', 'Cha', 'Int']
-CLASSES=['barbarian', 'bard', 'cleric', 'druid', 'fighter', 'monk', 'paladin', 'ranger', 'rogue', 'sorcerer', 'wizard']
+BASE_CLASSES=['alchemist', 'cavalier', 'gunslinger', 'inquisitor', 'magus', 'oracle', 'summoner', 'witch']
+ALT_CLASSES=['antipaladin', 'ninja', 'samurai']
+CORE_CLASSES=['barbarian', 'bard', 'cleric', 'druid', 'fighter', 'monk', 'paladin', 'ranger', 'rogue', 'sorcerer', 'wizard']
+CLASSES = BASE_CLASSES + ALT_CLASSES + CORE_CLASSES
 
 def slugify (name) 
 name.downcase!
@@ -16,6 +19,8 @@ name.delete!(')')
 name.gsub(' ', '-')
 end
 
+ 
+
 get '/classes/:name' do
 
 output = ""
@@ -23,9 +28,11 @@ enable :cross_origin
   names = params[:name].split(' ')
   if names.length == 1 and names[0] == "all"
     files = []
-    Dir.foreach('/home/jordane/git/bard.knowledge/classes/www.d20pfsrd.com/classes/core-classes') do |file|
-      if not file == "." and not file == ".."
-        files.push(file)
+    %w{core alternate base}.each do |set|
+      Dir.foreach("/home/jordane/git/bard.knowledge/classes/www.d20pfsrd.com/classes/#{set}-classes") do |file|
+        if not file == "." and not file == ".."
+          files.push({:name => file, :display_name => file.capitalize})
+        end
       end
     end
     output << files.to_json
